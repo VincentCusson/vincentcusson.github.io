@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Vincent Cusson"
-  avatar           : "vincent_profile.jpeg"
+  avatar           : "vincent_profile2.jpeg"
   bio              : "Audio creative technologist"
   location         : "Montreal"
-  employer         : IDMIL / NXI Gestatio
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=dS4xjfwAAAAJ"
   email            :
@@ -105,7 +105,7 @@ author:
   linkedin         :
   orcid            : 
   pinterest        :
-  soundcloud       : "https://soundcloud.com/portfolio-vincent-cusson"
+  soundcloud       : "portfolio-vincent-cusson"
   stackoverflow    :
   steam            :
   tumblr           :
