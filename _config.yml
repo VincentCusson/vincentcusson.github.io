@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vincent Cusson"
-  avatar           : "images/bio-photo.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "Audio creative technologist"
   location         : "Montreal"
   employer         :
