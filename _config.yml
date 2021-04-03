@@ -84,11 +84,11 @@ author:
   avatar           : "vincent_profile.jpeg"
   bio              : "Audio creative technologist"
   location         : "Montreal"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  employer         : IDMIL / NXI Gestatio
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=dS4xjfwAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : 
   pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  soundcloud       : "https://soundcloud.com/portfolio-vincent-cusson"
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
