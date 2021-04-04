@@ -26,6 +26,12 @@ Work experience and internships
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+* ONF
+* GRMS
+* Moment Factory
+* SAT metalab
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -35,7 +41,6 @@ Teaching
 Scholarships and Awards
 ======
 * scholarship
-* ONF
 * Sehnneiser
 
 Skills
