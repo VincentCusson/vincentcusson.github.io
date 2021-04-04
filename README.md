@@ -16,7 +16,7 @@ A Github Pages template for academic websites. This was forked (then detached) b
 - black and white picture?
 - black soundcloud icon?
 
-- justified text
+- [x] justified text
 
 - change portfolio section for 'projects' titled 'ongoing projects' in the bar
-- create publications via bibtex
+- [x] create publications via bibtex
