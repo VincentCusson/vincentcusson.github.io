@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vincent Cusson"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Vincent Cusson"
 description              : &description "Audio creative technologist"
