@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Interactive Media, UQAM, 2019
-* M.S. in Music Technology, McGill University, 2020 - current
+* M.S. in Music Technology, McGill University, 2019 - current
 
 
 Work experience
