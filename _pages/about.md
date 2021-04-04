@@ -24,4 +24,4 @@ In fall 2019, I began a master's degree in Music Technology at McGill university
 - Gesture-based interaction
 
 <br><br>
-**email:** lastname[dot]firstletteroffirstname[at]gmail[dot]com
+**contact:** lastname[dot]firstletteroffirstname[at]gmail[dot]com
