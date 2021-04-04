@@ -7,15 +7,14 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in Interactive Media, UQAM, 2019
 * M.S. in Music Technology, McGill University, 2019 - current
+* B.S. in Interactive Media, UQAM, 2019
 
 
-Work experience
+
+Work experience and internships
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -33,6 +32,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Scholarships and Awards
+======
+* scholarship
+* ONF
+* Sehnneiser
+
 Skills
 ======
 * Skill 1
@@ -42,8 +47,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Awards
-======
-* scholarship
-* ONF
-* Sehnneiser
+

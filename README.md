@@ -7,7 +7,8 @@ A Github Pages template for academic websites. This was forked (then detached) b
 - [X] Remove 'share on'
 - reduce height of [previous-next] buttons
 - reduce height of footer
+- [x] remove underline from text
 - [x] change Vincent cusson button to 'home'
 
 - [x] add awards section to CV
-
+- [x] add internships section to CV
