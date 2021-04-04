@@ -12,3 +12,5 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 - [x] add awards section to CV
 - [x] add internships section to CV
+
+- create publications via bibtex
