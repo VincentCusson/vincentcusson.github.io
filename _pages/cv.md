@@ -41,6 +41,8 @@ Teaching
 Scholarships and Awards
 ======
 * scholarship
+* hacklab
+* digicamp2016
 * Sehnneiser
 
 Skills
