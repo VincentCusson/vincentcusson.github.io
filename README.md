@@ -9,14 +9,12 @@ A Github Pages template for academic websites. This was forked (then detached) b
 - [x] reduce height of footer
 - [x] remove underline from text
 - [x] change Vincent cusson button to 'home'
-
 - [x] add awards section to CV
 - [x] add internships section to CV
-
+- [x] justified tex
+- [x] create publications via bibtex
 - black and white picture?
 - black soundcloud icon?
-
-- [x] justified text
-
-- change portfolio section for 'projects' titled 'ongoing projects' in the bar
-- [x] create publications via bibtex
+- add CIRRMT talk
+- change portfolio section for 'projects'
+- Add projects
