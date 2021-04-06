@@ -25,18 +25,25 @@ Work experience and internships
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+ 
+* 2016-2019: Fab manager Sainte-Julie
+
+
   
 * ONF
-* GRMS
+* GRMS (hexagram)
 * Moment Factory
 * SAT metalab
 
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* EDM2507 - Création sonore interactive
+* EDM3840 - Technologie des médias
+* EDM4621 - Synthèse sonore et interactivité
+* EDM4630 - Conception audiovisuelle et médias interactifs
+* EDM7112 - Séminaire de recherche-création sur l'interactivité
 
 Scholarships and Awards
 ======
