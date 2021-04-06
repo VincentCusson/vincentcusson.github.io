@@ -18,3 +18,7 @@ A Github Pages template for academic websites. This was forked (then detached) b
 - add CIRRMT talk
 - change portfolio section for 'projects'
 - Add projects
+- Make image clickable to projects page
+- make project (image and text) snippet look better on projects page
+- Version française.
+- Fix preview link (messenger) photo and title

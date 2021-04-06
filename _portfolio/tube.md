@@ -1,6 +1,6 @@
 ---
 title: "Etu{d,b}e"
-excerpt: "Performance setup in collaboration with Tommy Davis and aotonomous musical agents. <br/><img src='/images/tube.jpeg'>"
+excerpt: "Performance setup in collaboration with Tommy Davis and autonomous musical agents. <br/><img src='/images/tube.jpeg'>"
 collection: portfolio
 ---
 

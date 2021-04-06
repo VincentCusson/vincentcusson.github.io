@@ -9,36 +9,42 @@ redirect_from:
 
 Education
 ======
-* M.S. in Music Technology, McGill University, 2019 - current
-* B.S. in Interactive Media, UQAM, 2019
-
+* M.S. in Music Technology, McGill University, 2019-
+* B.S. in Interactive Media, UQAM, 2015-2019
 
 
 Work experience and internships
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016- : Research Assistant
+  * NXI Gestatio
+  * Conception d’outils de composition et de diffusion pour des installations multimédias.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Summer 2016: Research Assistant
+  * Hexagram
+  * Aide à la conception et à l’installation d’un dôme de 32 haut-parleurs. Développement et intégration des différents logiciels de composition et de spatialisation.
+
+
  
-* 2016-2019: Fab manager Sainte-Julie
-
+* 2016-2019: Fablab manager
+  * Fablab de la bibliothèque minicipale de Sainte-Julie
+  * Gestion du parc d’équipement, développement des ressources et des activités d’animation.
 
   
-* ONF
-* GRMS (hexagram)
-* Moment Factory
+* Summer 2017: Jeunes Pousses ONF x UQAM
+  * Interactive sound designer
+  * Stage interdisciplinaire avec plusieurs étudiants de l'UQAM. Création d'une application sonore interactive.
+
+
+* Summer 2018: **Moment Factory** (internship)
+  * Audio technologist
+  * Exploration de différents workflows pour la conception et l’intégration d’outils d’interactivité 		sonore. Mise à jour et expérimentation sur leur système de diffusion 16 canaux.
+
 * SAT metalab
 
 
 Teaching
 ======
-
 * EDM2507 - Création sonore interactive
 * EDM3840 - Technologie des médias
 * EDM4621 - Synthèse sonore et interactivité
@@ -47,6 +53,17 @@ Teaching
 
 Scholarships and Awards
 ======
+* Sara Berlind Memorial Fellowship 2019
+	* Récipiendaire de la bourse lors de l’admission aux cycles supérieurs	
+* Graduate Excellence Fellowship 2019
+  * Récipiendaire de la bourse lors de l’admission aux cycles supérieurs
+* Pixel Challenge 2017
+  * Mention spéciale pour la composition d'une trame générative.
+* Concours Sennheiser Canada 2017
+  * Récipiendaire de la bourse d'excellence en composition et nouveaux médias pour la pièce *Heureux qui comme lui à fait bon voyage*.
+* Concours Sennheiser Canada 2016
+	* Récipiendaire de la bourse d'excellence en composition et nouveaux médias pour la pièce *Loghorée*.
+
 * scholarship
 * hacklab
 * digicamp2016
