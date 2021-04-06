@@ -22,3 +22,5 @@ A Github Pages template for academic websites. This was forked (then detached) b
 - make project (image and text) snippet look better on projects page
 - Version française.
 - Fix preview link (messenger) photo and title
+- Make links open new windows?
+- Add photo credits

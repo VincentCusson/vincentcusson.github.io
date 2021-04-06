@@ -19,29 +19,25 @@ Work experience and internships
   * NXI Gestatio
   * Conception d’outils de composition et de diffusion pour des installations multimédias.
 
-
-* Summer 2016: Research Assistant
-  * Hexagram
-  * Aide à la conception et à l’installation d’un dôme de 32 haut-parleurs. Développement et intégration des différents logiciels de composition et de spatialisation.
-
-
- 
 * 2016-2019: Fablab manager
   * Fablab de la bibliothèque minicipale de Sainte-Julie
   * Gestion du parc d’équipement, développement des ressources et des activités d’animation.
 
-  
+* Winter 2019: SAT metalab
+  * Audio programmer
+  * Utilisation du spatialiseur audio développé à la SAT pour effectuer un traitement visant à uniformiser les formats audio des archives.
+
+* Summer 2018: **Moment Factory**
+  * Audio technologist
+  * Exploration de différents workflows pour la conception et l’intégration d’outils d’interactivité 		sonore. Mise à jour et expérimentation sur leur système de diffusion 16 canaux.
+
 * Summer 2017: Jeunes Pousses ONF x UQAM
   * Interactive sound designer
   * Stage interdisciplinaire avec plusieurs étudiants de l'UQAM. Création d'une application sonore interactive.
 
-
-* Summer 2018: **Moment Factory** (internship)
-  * Audio technologist
-  * Exploration de différents workflows pour la conception et l’intégration d’outils d’interactivité 		sonore. Mise à jour et expérimentation sur leur système de diffusion 16 canaux.
-
-* SAT metalab
-
+* Summer 2016: Research Assistant
+  * Hexagram
+  * Aide à la conception et à l’installation d’un dôme de 32 haut-parleurs. Développement et intégration des différents logiciels de composition et de spatialisation.
 
 Teaching
 ======
@@ -63,19 +59,22 @@ Scholarships and Awards
   * Récipiendaire de la bourse d'excellence en composition et nouveaux médias pour la pièce *Heureux qui comme lui à fait bon voyage*.
 * Concours Sennheiser Canada 2016
 	* Récipiendaire de la bourse d'excellence en composition et nouveaux médias pour la pièce *Loghorée*.
+* Bourse Prototypes UQAM + MOMENT FACTORY 2016
+  * Co-récipiendaire de la bourse pour l'installation *entre les formes*
 
-* scholarship
-* hacklab
+
+* hacklab 2019
 * digicamp2016
-* Sehnneiser
+
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Maitrise des logiciels de programmation dataflow comme Max/MSP et Pure Data.
+* Excellente connaissance des stations audionumérique tel Ableton Live, Reaper et
+Pro Tools.
+* Expérience avec différents systèmes et outils d’audio spatial et multicanal.
+* Connaissance des langages de programmation Python et Supercollider.
+* Bases en acoustique et en traitement de signal.
+* Git
 
 
