@@ -15,5 +15,3 @@ In addition to the saxophone, we will work with an unusual instrument: a tube wi
 
 The inspiration for this project stemmed from a collaboration for Tommy’s DMus recital performance of the DYCI2 modules with saxophone planned for May 2021. In 2019, Vincent attended the performance Reverberant House, where Tommy improvised with tubes and saxophones alongside his Duo d’Entre-Deux. These two events were the impetus to create a project utilizing the tube, the DYCI2 modules, a custom interface, and improvisation. The project represents each collaborators expertise and interests equally. Vincent brings his expertise as programmer, instrument builder, interface designer, and réalisateur en informatique musical. Tommy will contribute his proficiency as improviser, performer of electronic and interactive music, and collaborator co-designer of the improvising modules.
 
-We have a preliminary budget for resources needed for this project including 3D printer machine time, 3D printer materials, haptic sensors, wiring, plastic tubing, wifi module, LEDs and or feedback screens.
-
