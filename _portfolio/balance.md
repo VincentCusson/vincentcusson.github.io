@@ -1,14 +1,14 @@
 ---
-title: "Balance (installation)"
+title: "Balance"
 excerpt: "This sound installation offers to the public an intimate exploration of the curious instrument that is the T-Stick. Let yourself be immersed in this dreamy sonic experience. <br/><img src='/images/balance_small.png'>"
 collection: portfolio
 ---
 
-Title – Balance
-Artist – Vincent Cusson
-Event – improv@CIRMMT: T-Stick Music Creation Project
-Date – Feb 11, 2020
-Venue – La Vitrola, Montreal
+- Title – Balance
+- Artist – Vincent Cusson
+- Event – improv@CIRMMT: T-Stick Music Creation Project
+- Date – Feb 11, 2020
+- Venue – La Vitrola, Montreal
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B_4XV3seIXg" title="Vincent Cusson - Balance, for T-Stick" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
