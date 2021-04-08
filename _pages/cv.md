@@ -54,7 +54,7 @@ Scholarships and Awards
 * **Graduate Excellence Fellowship** 2019
   * Récipiendaire de la bourse lors de l’admission aux cycles supérieurs
 * **MusicMotion Hacklab** 2019
-  * Équipe gagnante du hackaton avec notre projet *Recurrent Noodle Network*
+  * Équipe gagnante du hackaton avec notre projet *Recursive Noodle Network*
 * **Pixel Challenge** 2017
   * Mention spéciale pour la composition d'une trame générative
 * **Concours Sennheiser Canada** 2017

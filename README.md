@@ -4,23 +4,14 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 # TODO
 
-- [X] Remove 'share on'
-- [x] reduce height of [previous-next] buttons
-- [x] reduce height of footer
-- [x] remove underline from text
-- [x] change Vincent cusson button to 'home'
-- [x] add awards section to CV
-- [x] add internships section to CV
-- [x] justified tex
-- [x] create publications via bibtex
-- black and white picture?
-- black soundcloud icon?
-- add CIRRMT talk
 - change portfolio section for 'projects'
-- Add projects
 - Make image clickable to projects page
 - make project (image and text) snippet look better on projects page
 - Version française.
 - Fix preview link (messenger) photo and title
 - Make links open new windows?
 - Add photo credits
+- Add teaching CMPL?
+- How to add 'teaching assistant'?
+- Add Projects
+    - Add Clork composition

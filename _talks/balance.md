@@ -1,8 +1,8 @@
 ---
-title: "Balanced; an exploration of affordances and constraints"
+title: "Balance; an exploration of affordances and constraints"
 collection: talks
 type: "Talk"
-permalink: /talks/balanced
+permalink: /talks/balance
 venue: "CIRMMT"
 date: 2020-01-24
 location: "Montréal, CA"
@@ -16,4 +16,4 @@ I also discuss the artistic process that occurred from the two workshops and the
 
 
 
-You can also find my presentation [here]("files/balance_cirmmtPresentation.pdf")
+You can also find my presentation [here](/files/balance_cirmmtPresentation.pdf)

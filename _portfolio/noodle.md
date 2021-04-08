@@ -1,6 +1,6 @@
 ---
-title: "Balance (installation)"
-excerpt: "This sound installation offers to the public an intimate exploration of the curious instrument that is the T-Stick. Let yourself be immersed in this dreamy sonic experience. <br/><img src='/images/tube.jpeg'>"
+title: "Recursive Noodle Network"
+excerpt: "Recursive Noodle Network is a musical experiment that uses ramen noodles as the main controller. The installation resembles a traditional sequencer and offers ve different ways to interact with the music. <br/><img src='/images/noodle_small.jpeg'>"
 collection: portfolio
 ---
 
