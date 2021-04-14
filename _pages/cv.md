@@ -70,12 +70,12 @@ Scholarships and Awards
 
 Skills
 ======
-* Maitrise des logiciels de programmation dataflow comme Max/MSP et Pure Data.
-* Excellente connaissance des stations audionumérique tel Ableton Live, Reaper et
+* Maitrise des environnements de programmation audio tel Max/MSP, Pure Data, Supercollider, Reaktor.
+* Excellente connaissance des stations audionumérique comme Ableton Live, Reaper et
 Pro Tools.
-* Expérience avec différents systèmes et outils d’audio spatial et multicanal.
-* Connaissance des langages de programmation Python et Supercollider.
+* Expérience avec différents systèmes et outils de spatialisation audio multicanal.
+* Connaissances des outils Git, Jira
 * Bases en acoustique et en traitement de signal.
-* Git
+
 
 

@@ -13,6 +13,7 @@ A Github Pages template for academic websites. This was forked (then detached) b
 - Change next-previous button by 'name of section'
 - Find carousell plugin
 - find way to have citations and references at the end of a page
+- (re)create sitemap
 
 - Projects
     - Make image clickable to projects page
@@ -23,5 +24,6 @@ A Github Pages template for academic websites. This was forked (then detached) b
     - Rework tube project description 
     - Add video performance and pictures of tube project
     - Rework text Balance
+    - Decide order of snippet in projects pages
 
 
