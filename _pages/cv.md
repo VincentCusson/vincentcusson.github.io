@@ -9,13 +9,13 @@ redirect_from:
 
 Education
 ======
-* M.S. in **Music Technology**, **McGill University**, 2019-
+* M.S. in **Music Technology**, **McGill University**, 2019-current
 * B.S. in **Interactive Media**, **UQAM**, 2015-2019
 
 
 Work experience and internships
 ======
-* 2016- : **NXI Gestatio**
+* 2016-current : **NXI Gestatio**
   * Research Assistant
   * Conception d’outils de composition et de diffusion pour des installations multimédias.
 
