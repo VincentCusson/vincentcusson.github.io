@@ -4,7 +4,10 @@ excerpt: "Performance setup in collaboration with Tommy Davis and autonomous mus
 collection: portfolio
 ---
 
-The DYCI2 project is currently developed at IRCAM and aims to design “generative agents and tools for smart composition and human-machine co-improvisation.” We will be using a set of software built in Max/MSP based on this library. Different strategies are used to provide a meaningful improvisation context; “reactive listening and anticipatory behaviour regarding a temporal specification (or scenario)” (Nika 2017). With the existing interface, we have already performed simple musical ideas. An example can be seen following this link (https://youtu.be/oUbeL_lAhFU)
+The DYCI2 project is currently developed at IRCAM and aims to design “generative agents and tools for smart composition and human-machine co-improvisation.” We will be using a set of software built in Max/MSP based on this library. Different strategies are used to provide a meaningful improvisation context; “reactive listening and anticipatory behaviour regarding a temporal specification (or scenario)” (Nika 2017). With the existing interface, we have already performed simple musical ideas. An example can be seen in this video.
+<br><br>
+<iframe width="560" height="315" src="https://youtu.be/oUbeL_lAhFU" title="DYCI2 improvisation" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
 Currently, the real-time performance controls over the agent are limited. In collaboration with  IRCAM research team members, we will enable more intricate interaction with the machine. This implies a better control over multiple parameters and multimodal feedback related to the status and controls of the patch via visual indicators (screen or LED), to inform the instrumentist about the patch during an improvisation.
 
 Once those controls over the musical agent are implemented with the graphical interface of Max/MSP or with computer input interface (keyboard, mouse, MIDI controller), we will start working on more complex scenarios. However, we think that in an ideal context, the performer should be able to interact directly with specific parameters of the musical agent.
