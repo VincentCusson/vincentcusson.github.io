@@ -9,3 +9,4 @@ citation: 'Calegario, F., Tragtenberg, J., Frisson, C., Meneses, E., Malloch, J.
 excerpt: 'coucou'
 ---
 
+Voici le "content" de la publication?
