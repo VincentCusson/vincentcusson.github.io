@@ -10,12 +10,12 @@ author_profile: true
 {% endif %}
 
 {% for post in site.publications reversed %}
-  {% include single.html %}
+  {% include archive-single.html %}
 {% endfor %}
 
 <br><br>
 
 # Talks
 {% for post in site.talks reversed %}
-  {% include single.html %}
+  {% include archive-single.html %}
 {% endfor %}
