@@ -3,11 +3,27 @@ title: "Etu{d,b}e"
 excerpt: "Performance setup in collaboration with Tommy Davis and autonomous musical agents. <br/><img src='/images/tube.jpeg'>"
 collection: portfolio
 ---
-We propose improvised performances including autonomous musical agents, and live instrumentists. We are using a combination of three frameworks from different composer-programmers. These agents’ behaviour is directed by various machine listening functions which may be summarized as: follow my step and follow that way. We are designing a modular environment to test various performative environments, explore contrasting human-machine groupings, and develop various machine listening and agency functions. We consider this exploration as a type of étude. As in the traditional use of the term in music pedagogy, our improvisations are presenting situations where the human and it's digital counterpart are studying (étudier) each other in realtime. The autonomous musical agents can even *learn* over the course of multiple performances by creating an offline memory bank. We'll assess whether this could improve the perceived quality of the human-machine interaction in this context.
+In collaboration with Tommy Davis, we propose improvised performances including autonomous musical agents and live instrumentists. We are using a combination of three frameworks from different composer-programmers. These agents’ behaviour is directed by various machine listening functions which may be summarized as: follow my step and follow that way. We are designing a modular environment to test various performative environments, explore contrasting human-machine groupings, and develop various machine listening and agency functions. We consider this exploration as a type of étude. As in the traditional use of the term in music pedagogy, our improvisations are presenting situations where the human and it's digital counterpart are studying (étudier) each other in realtime. The autonomous musical agents can even *learn* over the course of multiple performances by creating an offline memory bank. We'll assess whether this could improve the perceived quality of the human-machine interaction in this context.
 
 <br><br>
+### Performing DYCI2 framework during the North American Saxophone Alliance virtual conference
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oUbeL_lAhFU" title="DYCI2 improvisation" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
+
+<div class="container">
+    <video id="video" width="770" height="882" onclick="play();">
+        <source src="video/Motion.mp4" type="video/mp4" />
+    </video>
+    <div class="overlay">
+        <p>Content above your video</p>
+        <form>
+            <p>Content Below Your Video</p>
+            <label for="input">Form Input Label</label>
+            <input id="input" name="input" value="" />
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</div>
 
 ### Adapting Existing Framework
 We are adapting these three existing autonomous environments to our specific performance situation:
@@ -15,10 +31,8 @@ We are adapting these three existing autonomous environments to our specific per
 * **_derivations** by [Ben Carey](https://bencarey.net/) (Australia)
 * **CTIP2** by [Sergio Kafejian](https://musicabrasilis.com/composers/sergio-kafejian) (Brazil)
 
-We are collaborating with each composer-programmer and have their permission to modify and perform the Max/MSP patches for this project.
-Vincent will contribute expertise in instrument design and audio programming to create the modules and the environment at the heart of the digital part of the live improvisation setup. From simple pitch detection categorization to more complex live musical learning, the three different improvisation environments offer autonomous capabilities in their own way. Two of which also include audio effects that are again modified either stochastically or via user or via agent input. We already started customizing CTIP2 and DYCI2 for our explorations by adding or refining UI features to allow a better communication between a musician and it’s digital counterpart. We want to play with these tools and explore their minute functions and details; amazing things can occur when testing the limits of such systems.
+We are collaborating with each composer-programmer and have their permission to modify and perform the Max/MSP patches for this project. From simple pitch detection categorization to more complex live musical learning, the different improvisation environments offer autonomous capabilities in their own way. Two of them include audio effects that are modified either via agent input or manually. We already started customizing CTIP2 and DYCI2 for our explorations by adding or refining UI features to allow a better communication between a musician and it’s digital counterpart. We want to play with these tools and explore their minute functions and details; amazing things can occur when testing the limits of such systems.
 
-The DYCI2 project is currently developed at IRCAM and aims to design “generative agents and tools for smart composition and human-machine co-improvisation.” We will be using a set of software built in Max/MSP based on this library. Different strategies are used to provide a meaningful improvisation context; “reactive listening and anticipatory behaviour regarding a temporal specification (or scenario)” (Nika 2017). With the existing interface, we have already performed simple musical ideas. An example can be seen in this video.
 
 Currently, the real-time performance controls over the agent are limited. In collaboration with IRCAM research team members, we will enable more intricate interaction with the machine. This implies a better control over multiple parameters and multimodal feedback related to the status and controls of the patch via visual indicators (screen or LED), to inform the instrumentist about the patch during an improvisation.
 
