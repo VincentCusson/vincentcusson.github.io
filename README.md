@@ -25,5 +25,6 @@ A Github Pages template for academic websites. This was forked (then detached) b
     - Add video performance and pictures of tube project
     - Rework text Balance
     - Decide order of snippet in projects pages
+    - Add NXI, SAT and ONF projects
 
 

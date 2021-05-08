@@ -70,11 +70,12 @@ Scholarships and Awards
 
 Skills
 ======
-* Maitrise des environnements de programmation audio tel Max/MSP, Pure Data, Supercollider, and Reaktor
-* Good knowledge of various DAW like Ableton Live, Reaper, and Pro Tools
-* Experience with different systems and tools for multicanal audio spatialisation 
-* Knowledge of management tools like Git, and Jira
-* Basis in acoustic and digital signal processing
+* Maitrise des environnements de programmation audio tel Max/MSP, Pure Data, Supercollider, Reaktor.
+* Excellente connaissance des stations audionumérique comme Ableton Live, Reaper et
+Pro Tools.
+* Expérience avec différents systèmes et outils de spatialisation audio multicanal.
+* Connaissances des outils Git, Jira
+* Bases en acoustique et en traitement de signal.
 
 
 
