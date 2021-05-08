@@ -3,7 +3,7 @@ title: "Etu{d,b}e"
 excerpt: "Performance setup in collaboration with Tommy Davis and autonomous musical agents. <br/><img src='/images/tube.jpeg'>"
 collection: portfolio
 ---
-In collaboration with Tommy Davis, we propose improvised performances including autonomous musical agents and live instrumentists. We are using a combination of three frameworks from different composer-programmers. These agents’ behaviour is directed by various machine listening functions which may be summarized as: follow my step and follow that way {% cite nike2017 %}. We are designing a modular environment to test several performative environments, explore contrasting human-machine groupings, and develop various machine listening and agency functions. We consider this exploration as a type of étude. As in the traditional use of the term in music pedagogy, our improvisations are presenting situations where the human and it's digital counterpart are studying (étudier) each other in realtime. The autonomous musical agents can even *learn* over the course of multiple performances by creating an offline memory bank. We'll assess whether this could improve the perceived quality of the human-machine interaction in this context.
+In collaboration with Tommy Davis, we propose improvised performances including autonomous musical agents and live instrumentists. We are using a combination of three frameworks from different composer-programmers. These agents’ behaviour is directed by various machine listening functions which may be summarized as: follow my step and follow that way <a href="nika2017">[1]</a>. We are designing a modular environment to test several performative environments, explore contrasting human-machine groupings, and develop various machine listening and agency functions. We consider this exploration as a type of étude. As in the traditional use of the term in music pedagogy, our improvisations are presenting situations where the human and it's digital counterpart are studying (étudier) each other in realtime. The autonomous musical agents can even *learn* over the course of multiple performances by creating an offline memory bank. We'll assess whether this could improve the perceived quality of the human-machine interaction in this context.
 <br>
 
 ### Performing DYCI2 for the North American Saxophone Alliance virtual conference
@@ -48,4 +48,6 @@ For our first prototype, we plan to model and 3D print the body of the controlle
 The inspiration for this project stemmed from a collaboration for Tommy’s DMus recital performance planned for May 2021. The project represents each collaborators expertise and interests equally. Vincent brings his skills as programmer, instrument builder, and interface designer. Tommy will contribute his proficiency as improviser, performer of electronic and interactive music, and co-designer of the improvising modules.
 
 
-{% bibliography --cited %}
+## References
+
+<a name="nika2017">Nika, J., Déguernel, K., Chemla–Romeu-Santos, A., Vincent, E., & Assayag, G. (2017, October). DYCI2 Agents: Merging the ”free”, ”reactive”, and ”scenario-Based” Music Generation Paradigms. International Computer Music Conference.</a>
