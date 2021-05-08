@@ -9,9 +9,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-{% if site.author.googlescholar %}
-  You can also find some of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
-{% endif %}
 <br><br>
 
 # Talks

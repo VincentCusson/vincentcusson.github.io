@@ -275,6 +275,10 @@ whitelist:
   - jemoji
   - jekyll-scholar
 
+# configs for jekyll-scholar plugin
+scholar:
+  style: modern-language-association
+  source: /files/tube.bib
 
 # Archives
 #  Type
