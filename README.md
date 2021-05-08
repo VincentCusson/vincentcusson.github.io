@@ -14,6 +14,7 @@ A Github Pages template for academic websites. This was forked (then detached) b
 - Find carousell plugin
 - find way to have citations and references at the end of a page
 - (re)create sitemap
+- Make name from side bar clickable to home
 
 - Projects
     - Make image clickable to projects page
