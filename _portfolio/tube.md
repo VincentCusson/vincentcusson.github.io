@@ -31,8 +31,8 @@ It has been shown that two-way communication between a musician and the machine 
 
 [mapping]
 
-### The Atube
-
+---
+<br>
 Towards this goal, we will develop a digital interface fixed onto an instrument, which will send data to the patch for further processing. The design of similar digital musical instruments (DMI) and various forms of meta- or augmented-instrument is not new and our work is inspired by colleagues at IDMIL [EDU] [JOHNNY] and elsewhere [andrewMcPherson].
 
 In addition to traditional instruments, we will work with an unusual one: The Tube. It is a 2 meters long flexible plastic tube with a saxophone mouthpiece attached at one end. The inspiration comes from the concept of *infra-instrument* described as "restricted in its expressivity, broken or only a portion of a standard instrument"[Bowers]. This allows the performer to maintain a certain level of control over the sound production, articulations, and dynamics developed from years of musical training. The cylindrical tube reacts differently than the saxophone body producing inharmonic sounds, overtones, and rich textures. 
