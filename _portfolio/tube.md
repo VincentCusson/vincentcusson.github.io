@@ -7,21 +7,13 @@ In collaboration with Tommy Davis, we propose improvised performances including 
 
 <br><br>
 ### Performing DYCI2 framework during the North American Saxophone Alliance virtual conference
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oUbeL_lAhFU" title="DYCI2 improvisation" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br><br>
 
 <div class="container">
-    <video id="video" width="770" height="882" onclick="play();">
-        <source src="video/Motion.mp4" type="video/mp4" />
-    </video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oUbeL_lAhFU" title="DYCI2 improvisation" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <div class="overlay">
-        <p>Content above your video</p>
-        <form>
-            <p>Content Below Your Video</p>
-            <label for="input">Form Input Label</label>
-            <input id="input" name="input" value="" />
-            <button type="submit">Submit</button>
-        </form>
+        <p>Content Below Your Video</p>
     </div>
 </div>
 
