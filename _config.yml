@@ -275,6 +275,9 @@ whitelist:
   - jemoji
   - jekyll-scholar
 
+
+# Load plugins
+gems: ['jekyll/scholar']
 # configs for jekyll-scholar plugin
 scholar:
   style: modern-language-association
