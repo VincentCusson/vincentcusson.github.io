@@ -26,7 +26,7 @@ From simple pitch detection categorization to more complex live musical learning
 
 ### Interaction and collaboration
 Currently, the real-time control over the multiple parameters of an agent is somewhat limited. 
-It is possible to interact with the system via [Max/MSP](https://cycling74.com/products/max)'s GUI and with a typical computer input interfaces like the keyboard, the mouse, or a MIDI controller. It is often the role of a dedicated performer playing the electronics. However, we argue that an instrumentist should be able to control directly some parameters to enable more intricate interaction with a musical agent.
+It is possible to interact with the system via Max/MSP's GUI and with a typical computer input interfaces like the keyboard, the mouse, or a MIDI controller. It is often the role of a dedicated performer playing the electronics. However, we argue that an instrumentist should be able to control directly some parameters to enable more intricate interaction with a musical agent.
 
 It has been shown that two-way communication between a musician and the machine helps reach the state of flow [article] [flow]. Multimodal feedback should be design to inform the instrumentist about the patch state during an improvisation. In addition to the obvious sonic output from the agent, our first iteration will integrate visual indicators via a screen. Attempting to ease the performers cognitive load [magnusson], all parameters cannot be shown at the same time. Further research would involve experimenting with haptic feedback[hapticKeys] as another communication channel. In any case, we'll have to build the system gradually to allow for more complex collaborative scenarios over time. 
 
