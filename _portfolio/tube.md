@@ -17,18 +17,18 @@ We consider this exploration as a type of *étude*. As in the traditional use o
 </div>
 
 ### Adapting Existing Framework
-We are adapting these three existing autonomous environments to our specific performance situation:
+We are adapting these three existing environments to our specific performance situation:
 * **DYCI2** by [Jérôme Nika](https://jeromenika.com/) (France)
 * **_derivations** by [Ben Carey](https://bencarey.net/) (Australia)
 * **CTIP2** by [Sergio Kafejian](https://musicabrasilis.com/composers/sergio-kafejian) (Brazil)
 
-From simple pitch detection categorization to more complex live musical learning, the different improvisation environments offer autonomous capabilities in their own way. Two of them include audio effects that are modified either via agent input or manually. We already started customizing CTIP2 and DYCI2 for our needs by adding or refining graphical user inetrrface (GUI) features. We want to play with these tools and explore their minute functions and details; amazing things can occur when testing the limits of such systems. We are collaborating with each composer-programmer and have their permission to modify and perform the patches. 
+From simple pitch detection categorization to more complex live musical listening, the different improvisation environments offer autonomous capabilities in their own way. Two of them include audio effects that are modified either via agent input or manually. We already started customizing CTIP2 and DYCI2 for our needs by adding or refining graphical user interface (GUI) features. We want to play with these tools and explore their minute functions and details; amazing things can occur when testing the limits of such systems. We are collaborating with each composer-programmer and have their permission to modify and perform the patches. 
 
 ### Interaction and collaboration
 Currently, the real-time control over the multiple parameters of an agent is somewhat limited. 
 It is possible to interact with the system via Max/MSP's GUI and with a typical computer input interfaces like the keyboard, the mouse, or a MIDI controller. It is often the role of a dedicated performer playing the electronics. However, we argue that an instrumentist should be able to control directly some parameters to enable more intricate interaction with a musical agent.
 
-It has been shown that two-way communication between a musician and the machine helps reach the state of flow [article] [flow]. Multimodal feedback should be design to inform the instrumentist about the patch state during an improvisation. In addition to the obvious sonic output from the agent, our first iteration will integrate visual indicators via a screen. Attempting to ease the performers cognitive load [magnusson], all parameters cannot be shown at the same time. Further research would involve experimenting with haptic feedback[hapticKeys] as another communication channel. In any case, we'll have to build the system gradually to allow for more complex collaborative scenarios over time. 
+It has been shown that two-way communication between a musician and the machine helps reach the state of flow [article] [flow]. Multimodal feedback should be designed to inform the instrumentist about the patch state during an improvisation. In addition to the obvious sonic output from the agent, our first iteration will integrate visual indicators via a screen. Attempting to ease the performers cognitive load [magnusson], all parameters cannot be shown at the same time. Further research would involve experimenting with haptic feedback[hapticKeys] as another communication channel. In any case, we'll have to build the system gradually to allow for more complex collaborative scenarios over time. 
 
 [mapping]
 
@@ -36,17 +36,17 @@ It has been shown that two-way communication between a musician and the machine 
 <br>
 Towards this goal, we will develop a digital interface fixed onto an instrument, which will send data to the patch for further processing. The design of similar digital musical instruments (DMI) and various forms of meta- or augmented-instrument is not new and our work is inspired by colleagues at IDMIL [EDU] [JOHNNY] and elsewhere [andrewMcPherson].
 
-In addition to traditional instruments, we will work with an unusual one: The Tube. It is a 2 meters long flexible plastic tube with a saxophone mouthpiece attached at one end. The inspiration comes from the concept of *infra-instrument* described as "restricted in its expressivity, broken or only a portion of a standard instrument"[Bowers]. This allows the performer to maintain a certain level of control over the sound production, articulations, and dynamics developed from years of musical training. The cylindrical tube reacts differently than the saxophone body producing inharmonic sounds, overtones, and rich textures. 
+In addition to traditional instruments, we will work with an unusual one: The Tube. It is a two meter long flexible plastic tube with a saxophone mouthpiece attached at one end. The inspiration comes from the concept of *infra-instrument* described as "restricted in its expressivity, broken or only a portion of a standard instrument"[Bowers]. This allows the performer to maintain a certain level of control over the sound production, articulations, and dynamics developed from years of musical training. The cylindrical tube reacts differently than the saxophone body producing inharmonic sounds, overtones, and rich textures. 
 Tommy has improvised with tubes in collaborative performances with Wild Space Dance in Brooklyn (2015), Ensemble AKA for No Hay Banda (2017), and with Duo d’Entre-Deux for the co-improvised Reverberant House (2019) produced by Codes d’accès.
 [imageTube] or [videoTube]
 
-The simplicity of it's design is appealing for us since it offers more liberty - as in less physical constraints [magnusson] - for augmentating it with electronics. We are now faced with this interesting questions; what happens when you *augment* an *infra* instrument..?
+The simplicity of its design is appealing for us since it offers more liberty - as in less physical constraints [magnusson] - for augmenting it with electronics. We are now faced with this interesting questions; what happens when you *augment* an *infra* instrument..?
 
-For our first prototype, we plan to model and 3D print the body of the controller. It'll have to be fixed to the accoustic instrument without hindrance to the performer. An emphasis will be put on the instrumentist preferences regarding some inherent qualities of sensors used for bi-manual interactions. The use of human-centered design strategies as been proved to be an efficient way to facilitate the learningship of a new digital instrument [johnny]. Custom electronics based around the esp8266 (WIFI enabled Arduino-like boards) will be interfacing the sensors and actuators to relay information between the musician and the musical agent. [image3Dmodel]
+For our first prototype, we plan to model and 3D print the body of the controller. It'll have to be fixed to the acoustic instrument without hindrance to the performer. An emphasis will be put on the instrumentist preferences regarding some inherent qualities of sensors used for bimanual interactions. The use of human-centered design strategies jas been proved to be an efficient way to facilitate the learningship of a new digital instrument [johnny]. Custom electronics based on the esp8266 (WIFI enabled Arduino-like boards) will be interfacing the sensors and actuators to relay information between the musician and the musical agent. [image3Dmodel]
 
 
 
-The inspiration for this project stemmed from a collaboration for Tommy’s DMus recital performance planned for May 2021. The project represents each collaborators expertise and interests equally. Vincent brings his skills as programmer, instrument builder, and interface designer. Tommy will contribute his proficiency as improviser, performer of electronic and interactive music, and co-designer of the improvising modules.
+The inspiration for this project stemmed from a collaboration for Tommy’s DMus recital performance planned for May 2021. The project represents each collaborator expertise and interests equally. Vincent brings his skills as a programmer, instrument builder, and interface designer. Tommy will contribute his proficiency as an improviser, performer of electronic and interactive music, and co-designer of the improvising modules.
 
 
 ## References
