@@ -25,18 +25,18 @@ We are adapting these three existing environments to our specific performance si
 From simple pitch detection categorization to more complex live musical listening, the different improvisation environments offer autonomous capabilities in their own way. Two of them include audio effects that are modified either via agent input or manually. We already started customizing CTIP2 and DYCI2 for our needs by adding or refining graphical user interface (GUI) features. We want to play with these tools and explore their minute functions and details; amazing things can occur when testing the limits of such systems. We are collaborating with each composer-programmer and have their permission to modify and perform the patches. 
 
 ### Interaction and collaboration
-Currently, the real-time control over the multiple parameters of an agent is somewhat limited. 
-It is possible to interact with the system via Max/MSP's GUI and with a typical computer input interfaces like the keyboard, the mouse, or a MIDI controller. It is often the role of a dedicated performer playing the electronics. However, we argue that an instrumentist should be able to control directly some parameters to enable more intricate interaction with a musical agent.
+Currently, the realtime control over the multiple parameters of an agent is somewhat limited. 
+It is possible to interact with the system via Max/MSP's GUI and with typical computer input interfaces like the keyboard, the mouse, or a MIDI controller. It is often the role of a dedicated performer playing the electronics. However, we argue that an instrumentist should be able to control directly some parameters to enable more intricate interaction with a musical agent.
 
-It has been shown that two-way communication between a musician and the machine helps reach the state of flow [article] [flow]. Multimodal feedback should be designed to inform the instrumentist about the patch state during an improvisation. In addition to the obvious sonic output from the agent, our first iteration will integrate visual indicators via a screen. Attempting to ease the performers cognitive load [magnusson], all parameters cannot be shown at the same time. Further research would involve experimenting with haptic feedback[hapticKeys] as another communication channel. In any case, we'll have to build the system gradually to allow for more complex collaborative scenarios over time. 
+It has been shown that two-way communication between a musician and the machine helps reach the state of flow [article](<a href="#csiks2000">Csikszentmihalyi, 1990</a>). Multimodal feedback should be designed to inform the instrumentist about the patch state during an improvisation. In addition to the obvious sonic output from the agent, our first iteration will integrate visual indicators via a screen. Attempting to ease the performers cognitive load [magnusson], all parameters cannot be shown at the same time. Further research would involve experimenting with haptic feedback[hapticKeys] as another communication channel. In any case, we'll have to build the system gradually to allow for more complex collaborative scenarios over time. 
 
 [mapping]
 
 ---
 <br>
-Towards this goal, we will develop a digital interface fixed onto an instrument, which will send data to the patch for further processing. The design of similar digital musical instruments (DMI) and various forms of meta- or augmented-instrument is not new and our work is inspired by colleagues at IDMIL [EDU] [JOHNNY] and elsewhere [andrewMcPherson].
+Towards this goal, we will develop a digital interface fixed onto an instrument, which will send data to the patch for further processing. The design of similar digital musical instruments (DMI) and various forms of meta- or augmented-instrument is not new and our work is inspired by colleagues at IDMIL [EDU] (<a href="#sulli2018">Sullivan, 2018</a>) and elsewhere [andrewMcPherson].
 
-In addition to traditional instruments, we will work with an unusual one: The Tube. It is a two meter long flexible plastic tube with a saxophone mouthpiece attached at one end. The inspiration comes from the concept of *infra-instrument* described as "restricted in its expressivity, broken or only a portion of a standard instrument"[Bowers]. This allows the performer to maintain a certain level of control over the sound production, articulations, and dynamics developed from years of musical training. The cylindrical tube reacts differently than the saxophone body producing inharmonic sounds, overtones, and rich textures. 
+In addition to traditional instruments, we will work with an unusual one: The Tube. It is a two meter long flexible plastic tube with a saxophone mouthpiece attached at one end. The inspiration comes from the concept of *infra-instrument* described as "restricted in its expressivity, broken or only a portion of a standard instrument" (<a href="#bow2005">Bowers, 2105</a>). This allows the performer to maintain a certain level of control over the sound production, articulations, and dynamics developed from years of musical training. The cylindrical tube reacts differently than the saxophone body producing inharmonic sounds, overtones, and rich textures. 
 Tommy has improvised with tubes in collaborative performances with Wild Space Dance in Brooklyn (2015), Ensemble AKA for No Hay Banda (2017), and with Duo d’Entre-Deux for the co-improvised Reverberant House (2019) produced by Codes d’accès.
 [imageTube] or [videoTube]
 
@@ -51,4 +51,10 @@ The inspiration for this project stemmed from a collaboration for Tommy’s DMus
 
 ## References
 
-<a style="color:grey; text-align: left" name="nika2017">Nika, J., Déguernel, K., Chemla–Romeu-Santos, A., Vincent, E., & Assayag, G. (2017, October). DYCI2 Agents: Merging the ”free”, ”reactive”, and ”scenario-Based” Music Generation Paradigms. International Computer Music Conference.</a>
+<a style="color:grey; text-align: left" name="nika2017">Nika, J., Déguernel, K., Chemla–Romeu-Santos, A., Vincent, E., & Assayag, G. (2017). DYCI2 Agents: Merging the ”free”, ”reactive”, and ”scenario-Based” Music Generation Paradigms. International Computer Music Conference.</a>
+
+<a style="color:grey; text-align: left" name="csiks1990"> Csikszentmihalyi, M. (1990). Flow: The psychology of optimal experience (Vol. 1990). New York: Harper & Row.</a>
+
+<a style="color:grey; text-align: left" name="bow2005">Bowers, J., & Archer, P. (2005). Not Hyper, Not Meta, Not Cyber but Infra-Instruments. 5–10. https://www.nime.org/proceedings/2005/nime2005_005.pdf</a>
+
+<a style="color:grey; text-align: left" name="sulli2018">Sullivan, J., Tibbitts, A., Gatinet, B., & Wanderley, M. M. M. (2018). Gestural control of augmented instrumental performance: A case study of the concert harp. Proceedings of the 5th International Conference on Movement and Computing, 1–8. https://doi.org/10.1145/3212721.3212814</a>
