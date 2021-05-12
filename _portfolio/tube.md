@@ -30,17 +30,15 @@ From simple pitch detection categorization to more complex live musical listenin
 Currently, the realtime control over the multiple parameters of an agent is somewhat limited. 
 It is possible to interact with the system via Max/MSP's GUI and with typical computer input interfaces like the keyboard, the mouse, or a MIDI controller. It is often the role of a dedicated performer playing the electronics. However, we argue that an instrumentist should be able to control directly some parameters to enable more intricate interaction with a musical agent.
 
-It has been shown that two-way communication between a musician and the machine (<a href="#corma2019">McCormack, 2019</a>) helps reach the state of flow (<a href="#csiks2000">Csikszentmihalyi, 1990</a>). Multimodal feedback should be designed to inform the instrumentist about the patch state during an improvisation. In addition to the obvious sonic output from the agent, our first iteration will integrate visual indicators via a screen. Attempting to ease the performers cognitive load [magnusson], all parameters cannot be shown at the same time. Further research would involve experimenting with haptic feedback[hapticKeys] as another communication channel. In any case, we'll have to build the system gradually to allow for more complex collaborative scenarios over time. 
+It has been shown that two-way communication between a musician and a improvising musical agents (<a href="#corma2019">McCormack, 2019</a>) helps reach the state of flow (<a href="#csiks2000">Csikszentmihalyi, 1990</a>). Multimodal feedback should be designed to inform the instrumentist about the patch state during an improvisation. In addition to the obvious sonic output from the agent, our first iteration will integrate visual indicators via a screen. Attempting to ease the performers cognitive load [magnusson], all parameters cannot be shown at the same time. Further research would involve experimenting with haptic feedback[hapticKeys] as another communication channel. In any case, we'll have to build the system gradually to allow for more complex collaborative scenarios over time. 
 
-[mapping]
 
 ---
 <br>
-Towards this goal, we will develop a digital interface fixed onto an instrument, which will send data to the patch for further processing. The design of similar digital musical instruments (DMI) and various forms of meta- or augmented-instrument is not new and our work is inspired by colleagues at IDMIL [EDU] (<a href="#sulli2018">Sullivan, 2018</a>) and elsewhere [andrewMcPherson].
+Towards this goal, we will develop a digital interface fixed onto an instrument, which would send data to the computer for further processing. The design of similar digital musical instruments (DMI) and various forms of meta- or augmented-instrument is not new and our work is inspired by colleagues at IDMIL [EDU] (<a href="#sulli2018">Sullivan, 2018</a>) and elsewhere [andrewMcPherson].
 
 In addition to traditional instruments, we will work with an unusual one: The Tube. It is a two meter long flexible plastic tube with a saxophone mouthpiece attached at one end. The inspiration comes from the concept of *infra-instrument* described as "restricted in its expressivity, broken or only a portion of a standard instrument" (<a href="#bow2005">Bowers, 2005</a>). This allows the performer to maintain a certain level of control over the sound production, articulations, and dynamics developed from years of musical training. The cylindrical tube reacts differently than the saxophone body producing inharmonic sounds, overtones, and rich textures. 
-Tommy has improvised with tubes in collaborative performances with Wild Space Dance in Brooklyn (2015), Ensemble AKA for No Hay Banda (2017), and with Duo d’Entre-Deux for the co-improvised Reverberant House (2019) produced by Codes d’accès.
-[imageTube] or [videoTube]
+Tommy has improvised with tubes in collaborative performances with [Wild Space Dance](https://www.youtube.com/watch?v=G0XABGUDFfA) in Brooklyn (2015), Ensemble AKA for [No Hay Banda](https://www.youtube.com/watch?v=9rotwgh_ZTE) (2017), and with Duo d’Entre-Deux for the co-improvised [Reverberant House](https://www.youtube.com/watch?v=Ho4u9VrFzlE) (2019) produced by Codes d’accès.
 
 The simplicity of its design is appealing for us since it offers more liberty - as in less physical constraints [magnusson] - for augmenting it with electronics. We are now faced with this interesting questions; what happens when you *augment* an *infra* instrument..?
 
@@ -50,7 +48,7 @@ Custom electronics based on the esp8266 (WIFI enabled Arduino-like boards) will 
 
 
 ### Aknowledgment
-The inspiration for this project stemmed from a collaboration for Tommy’s DMus recital performance planned for May 2021.
+The inspiration for this project stemmed from a collaboration for Tommy’s DMus recital performance planned for May 2021.<br>
 We are currently awaiting the results for a CIRMMT students award and a Live@CIRMMT call for work.
 
 
@@ -65,6 +63,5 @@ We are currently awaiting the results for a CIRMMT students award and a Live@CIR
 <a style="color:grey; text-align: left" name="sulli2018">Sullivan, J., Tibbitts, A., Gatinet, B., & Wanderley, M. M. M. (2018). Gestural control of augmented instrumental performance: A case study of the concert harp. Proceedings of the 5th International Conference on Movement and Computing, 1–8. https://doi.org/10.1145/3212721.3212814</a>
 
 <a style="color:grey; text-align: left" name="sulli2021">Sullivan, J. (2021). Built to perform: Designing digital musical instruments for professional use [Ph.D. thesis, McGill University]. https://johnnyvenom.com/files/sullivan_phd_thesis.pdf</a>
-
 
 <a style="color:grey; text-align: left" name="corma2019">McCormack, J., Gifford, T., Hutchings, P., Llano, M., Yee-King, M., & dʼInverno, M. (2019). In a Silent Way: Communication Between AI and Improvising Musicians Beyond Sound. 1–11. https://doi.org/10.1145/3290605.3300268</a>
