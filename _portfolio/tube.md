@@ -3,7 +3,7 @@ title: "Etu{d,b}e"
 excerpt: "Performance setup in collaboration with Tommy Davis and autonomous musical agents. <br/><img src='/images/tube.jpeg'>"
 collection: portfolio
 ---
-*This text is (and probably will always be) a Work In Progress. Thank you for your comprehension.*
+*This text is (and probably will always be) a Work In Progress.*
 
 In collaboration with the saxophonist [Tommy Davis](http://www.tommysaxophone.com/), we propose improvised performances including autonomous musical agents and live instrumentists. We are using a combination of three frameworks from different composer-programmers. These agents’ behaviour is directed by various machine listening functions which may be summarized as: follow my step and follow that way (<a href="#nika2017">Nika, 2017</a>). We are designing a modular environment to test several performative environments, explore contrasting human-machine groupings, and develop various machine listening and agency functions. 
 We consider these explorations like a type of *étude* as in the traditional use of the term in music pedagogy. Our improvisations are presenting situations where the human and its digital counterpart are studying (étudier) each other in realtime. The autonomous musical agents can even *learn* over the course of multiple performances by creating an offline memory bank. We want to assess whether this would improve the perceived quality of the human-machine interaction during an improvisation.
@@ -30,7 +30,7 @@ From simple pitch detection categorization to more complex live musical listenin
 Currently, the realtime control over the multiple parameters of an agent is somewhat limited. 
 It is possible to interact with the system via Max/MSP's GUI and with typical computer input interfaces like the keyboard, the mouse, or a MIDI controller. It is often the role of a dedicated performer playing the electronics. However, we argue that an instrumentist should be able to control directly some parameters to enable more intricate interaction with a musical agent.
 
-It has been shown that two-way communication between a musician and a improvising musical agents (<a href="#corma2019">McCormack, 2019</a>) helps reach the state of flow (<a href="#csiks2000">Csikszentmihalyi, 1990</a>). Multimodal feedback should be designed to inform the instrumentist about the patch state during an improvisation. In addition to the obvious sonic output from the agent, our first iteration will integrate visual indicators via a screen. Attempting to ease the performers cognitive load [magnusson], all parameters cannot be shown at the same time. Further research would involve experimenting with haptic feedback[hapticKeys] as another communication channel. In any case, we'll have to build the system gradually to allow for more complex collaborative scenarios over time. 
+It has been shown that two-way communication between a musician and a improvising musical agents (<a href="#corma2019">McCormack, 2019</a>) helps reach the state of flow (<a href="#csiks2000">Csikszentmihalyi, 1990</a>). Multimodal feedback should be designed to inform the instrumentist about the patch state during an improvisation. In addition to the obvious sonic output from the agent, our first iteration will integrate visual indicators via a screen. Attempting to ease the performers cognitive load<!-- [magnusson] -->, all parameters cannot be shown at the same time. Further research would involve experimenting with haptic feedback<!-- [hapticKeys] --> as another communication channel. In any case, we'll have to build the system gradually to allow for more complex collaborative scenarios over time. 
 
 
 ---
@@ -40,11 +40,11 @@ Towards this goal, we will develop a digital interface fixed onto an instrument,
 In addition to traditional instruments, we will work with an unusual one: The Tube. It is a two meter long flexible plastic tube with a saxophone mouthpiece attached at one end. The inspiration comes from the concept of *infra-instrument* described as "restricted in its expressivity, broken or only a portion of a standard instrument" (<a href="#bow2005">Bowers, 2005</a>). This allows the performer to maintain a certain level of control over the sound production, articulations, and dynamics developed from years of musical training. The cylindrical tube reacts differently than the saxophone body producing inharmonic sounds, overtones, and rich textures. 
 Tommy has improvised with tubes in collaborative performances with [Wild Space Dance](https://www.youtube.com/watch?v=G0XABGUDFfA) in Brooklyn (2015), Ensemble AKA for [No Hay Banda](https://www.youtube.com/watch?v=9rotwgh_ZTE) (2017), and with Duo d’Entre-Deux for the co-improvised [Reverberant House](https://www.youtube.com/watch?v=Ho4u9VrFzlE) (2019) produced by Codes d’accès.
 
-The simplicity of its design is appealing for us since it offers more liberty - as in less physical constraints [magnusson] - for augmenting it with electronics. We are now faced with this interesting questions; what happens when you *augment* an *infra* instrument..?
+The simplicity of its design is appealing for us since it offers more liberty - as in less physical constraints<!-- [magnusson] --> - for augmenting it with electronics. We are now faced with this interesting questions; what happens when you *augment* an *infra* instrument..?
 
 ### Controller design
 For our first prototype, we plan to model and 3D print the body of the controller. It'll have to be fixed to the acoustic instrument without hindrance to the performer. An emphasis will be put on the instrumentist preferences regarding some inherent qualities of sensors used for bimanual interactions. The use of human-centered design strategies has been proved to be an efficient way to facilitate the learningship of a new digital instrument (<a href="#sulli2021">Sullivan, 2021</a>). 
-Custom electronics based on the esp8266 (WIFI enabled Arduino-like boards) will be interfacing the sensors and actuators to relay information between the musician and the musical agent. [image3Dmodel]
+Custom electronics based on the esp8266 (WIFI enabled Arduino-like boards) will be interfacing the sensors and actuators to relay information between the musician and the musical agent. <!-- [image3Dmodel] -->
 
 
 ### Aknowledgment
