@@ -54,14 +54,14 @@ We are currently awaiting the results for a CIRMMT students award and a Live@CIR
 
 ## References
 
-<a style="color:grey; text-align: left" name="nika2017">Nika, J., Déguernel, K., Chemla–Romeu-Santos, A., Vincent, E., & Assayag, G. (2017). DYCI2 Agents: Merging the ”free”, ”reactive”, and ”scenario-Based” Music Generation Paradigms. International Computer Music Conference.</a>
+<a style="color:grey; text-align: left" name="nika2017">Nika, J., Déguernel, K., Chemla–Romeu-Santos, A., Vincent, E., & Assayag, G. (2017). <b>DYCI2 Agents: Merging the ”free”, ”reactive”, and ”scenario-Based” Music Generation Paradigms</b>. International Computer Music Conference.</a>
 
-<a style="color:grey; text-align: left" name="csiks1990"> Csikszentmihalyi, M. (1990). Flow: The psychology of optimal experience (Vol. 1990). New York: Harper & Row.</a>
+<a style="color:grey; text-align: left" name="csiks1990"> Csikszentmihalyi, M. (1990). <b>Flow: The psychology of optimal experience</b>. (Vol. 1990). New York: Harper & Row.</a>
 
-<a style="color:grey; text-align: left" name="bow2005">Bowers, J., & Archer, P. (2005). Not Hyper, Not Meta, Not Cyber but Infra-Instruments. 5–10. https://www.nime.org/proceedings/2005/nime2005_005.pdf</a>
+<a style="color:grey; text-align: left" name="bow2005">Bowers, J., & Archer, P. (2005). <b>Not Hyper, Not Meta, Not Cyber but Infra-Instruments</b>. 5–10. https://www.nime.org/proceedings/2005/nime2005_005.pdf</a>
 
-<a style="color:grey; text-align: left" name="sulli2018">Sullivan, J., Tibbitts, A., Gatinet, B., & Wanderley, M. M. M. (2018). Gestural control of augmented instrumental performance: A case study of the concert harp. Proceedings of the 5th International Conference on Movement and Computing, 1–8. https://doi.org/10.1145/3212721.3212814</a>
+<a style="color:grey; text-align: left" name="sulli2018">Sullivan, J., Tibbitts, A., Gatinet, B., & Wanderley, M. M. M. (2018). <b>Gestural control of augmented instrumental performance: A case study of the concert harp</b>. Proceedings of the 5th International Conference on Movement and Computing, 1–8. https://doi.org/10.1145/3212721.3212814</a>
 
-<a style="color:grey; text-align: left" name="sulli2021">Sullivan, J. (2021). Built to perform: Designing digital musical instruments for professional use [Ph.D. thesis, McGill University]. https://johnnyvenom.com/files/sullivan_phd_thesis.pdf</a>
+<a style="color:grey; text-align: left" name="sulli2021">Sullivan, J. (2021). <b>Built to perform: Designing digital musical instruments for professional use</b>. [Ph.D. thesis, McGill University]. https://johnnyvenom.com/files/sullivan_phd_thesis.pdf</a>
 
-<a style="color:grey; text-align: left" name="corma2019">McCormack, J., Gifford, T., Hutchings, P., Llano, M., Yee-King, M., & dʼInverno, M. (2019). In a Silent Way: Communication Between AI and Improvising Musicians Beyond Sound. 1–11. https://doi.org/10.1145/3290605.3300268</a>
+<a style="color:grey; text-align: left" name="corma2019">McCormack, J., Gifford, T., Hutchings, P., Llano, M., Yee-King, M., & dʼInverno, M. (2019). <b>In a Silent Way: Communication Between AI and Improvising Musicians Beyond Sound</b>. 1–11. <a href="https://doi.org/10.1145/3290605.3300268">https://doi.org/10.1145/3290605.3300268</a></a>
