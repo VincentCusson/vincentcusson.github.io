@@ -64,4 +64,4 @@ We are currently awaiting the results for a CIRMMT students award and a Live@CIR
 
 <a style="color:grey; text-align: left" name="sulli2021">Sullivan, J. (2021). <b>Built to perform: Designing digital musical instruments for professional use</b>. [Ph.D. thesis, McGill University]. https://johnnyvenom.com/files/sullivan_phd_thesis.pdf</a>
 
-<a style="color:grey; text-align: left" name="corma2019">McCormack, J., Gifford, T., Hutchings, P., Llano, M., Yee-King, M., & dʼInverno, M. (2019). <b>In a Silent Way: Communication Between AI and Improvising Musicians Beyond Sound</b>. 1–11. <a href="https://doi.org/10.1145/3290605.3300268">https://doi.org/10.1145/3290605.3300268</a></a>
+<a style="color:grey; text-align: left" name="corma2019">McCormack, J., Gifford, T., Hutchings, P., Llano, M., Yee-King, M., & dʼInverno, M. (2019). <b>In a Silent Way: Communication Between AI and Improvising Musicians Beyond Sound</b>. 1–11. <a href="https://doi.org/10.1145/3290605.3300268" target="_blank" rel="noopener noreferrer">https://doi.org/10.1145/3290605.3300268</a></a>
