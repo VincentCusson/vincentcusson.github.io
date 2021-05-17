@@ -3,10 +3,10 @@ title: "Etu{d,b}e"
 excerpt: "Performance setup in collaboration with Tommy Davis and autonomous musical agents. <br/><img src=’/images/tube.jpeg’>"
 collection: portfolio
 ---
-<p style="font-size:80%;">*This text is (and probably will always be) a Work in Progress.*</p>
+<p style="font-size:80%;">This is (and will always be) a Work in Progress.</p>
 
-In collaboration with the saxophonist [Tommy Davis](http://www.tommysaxophone.com/), we propose improvised performances including autonomous musical agents and live instrumentists. We are using a combination of three frameworks from different composer-programmers.<!--[REMPLACER par une phrase clef qui résume les agents]--> These agents’ behavior is directed by various machine listening functions which may be summarized as: follow my step and follow that way (<a href="#nika2017">Nika, 2017</a>). We are designing a modular environment to test several performative environments, explore contrasting human-machine groupings, and develop various machine listening and agency functions. 
-We consider these explorations like *étude* as in the traditional use of the term in music pedagogy. Our improvisations are presenting situations where the human and its digital counterpart are studying (étudier) each other in realtime. The autonomous musical agents can even *learn* over the course of multiple performances by creating an offline memory bank. We want to assess whether this would improve the perceived quality of the human-machine interaction during an improvisation.
+In collaboration with the saxophonist [Tommy Davis](http://www.tommysaxophone.com/), we propose improvised performances including autonomous musical agents and live instrumentists.<!--[REMPLACER par une phrase clef qui résume les agents]--> These agents’ behavior is directed by various machine listening functions which may be summarized as: follow my step and follow that way (<a href="#nika2017">Nika, 2017</a>). We are designing a modular environment to test several performative environments, explore contrasting human-machine groupings, and develop various machine listening and agency functions. 
+We consider these explorations like *étude* as in the traditional use of the term in music pedagogy. Our improvisations are presenting situations where the human and its digital counterpart ahve to study (étudier) each other in realtime. The autonomous musical agents can even *learn* over the course of multiple performances by creating an offline memory bank. We want to assess whether this would improve the perceived quality of the human-machine interaction during an improvisation.
 <br>
 
 ### Performing DYCI2 for the North American Saxophone Alliance virtual conference
@@ -58,10 +58,10 @@ We are currently awaiting the results for a CIRMMT students award and a Live@CIR
 
 <a style="color:grey; text-align: left" name="csiks1990"> Csikszentmihalyi, M. (1990). <b>Flow: The psychology of optimal experience</b>. (Vol. 1990). New York: Harper & Row.</a>
 
-<a style="color:grey; text-align: left" name="bow2005">Bowers, J., & Archer, P. (2005). <b>Not Hyper, Not Meta, Not Cyber but Infra-Instruments</b>. 5–10. https://www.nime.org/proceedings/2005/nime2005_005.pdf</a>
+<a style="color:grey; text-align: left" name="bow2005">Bowers, J., & Archer, P. (2005). <b>Not Hyper, Not Meta, Not Cyber but Infra-Instruments</b>. 5–10. <a href="https://www.nime.org/proceedings/2005/nime2005_005.pdf" target="_blank" rel="noopener noreferrer">https://www.nime.org/proceedings/2005/nime2005_005.pdf</a></a>
 
-<a style="color:grey; text-align: left" name="sulli2018">Sullivan, J., Tibbitts, A., Gatinet, B., & Wanderley, M. M. M. (2018). <b>Gestural control of augmented instrumental performance: A case study of the concert harp</b>. Proceedings of the 5th International Conference on Movement and Computing, 1–8. https://doi.org/10.1145/3212721.3212814</a>
+<a style="color:grey; text-align: left" name="sulli2018">Sullivan, J., Tibbitts, A., Gatinet, B., & Wanderley, M. M. M. (2018). <b>Gestural control of augmented instrumental performance: A case study of the concert harp</b>. Proceedings of the 5th International Conference on Movement and Computing, 1–8. <a href="https://doi.org/10.1145/3212721.3212814" target="_blank" rel="noopener noreferrer">https://doi.org/10.1145/3212721.3212814</a></a>
 
-<a style="color:grey; text-align: left" name="sulli2021">Sullivan, J. (2021). <b>Built to perform: Designing digital musical instruments for professional use</b>. [Ph.D. thesis, McGill University]. https://johnnyvenom.com/files/sullivan_phd_thesis.pdf</a>
+<a style="color:grey; text-align: left" name="sulli2021">Sullivan, J. (2021). <b>Built to perform: Designing digital musical instruments for professional use</b>. [Ph.D. thesis, McGill University]. <a href="https://johnnyvenom.com/files/sullivan_phd_thesis.pdf" target="_blank" rel="noopener noreferrer">https://johnnyvenom.com/files/sullivan_phd_thesis.pdf</a></a>
 
 <a style="color:grey; text-align: left" name="corma2019">McCormack, J., Gifford, T., Hutchings, P., Llano, M., Yee-King, M., & d’Inverno, M. (2019). <b>In a Silent Way: Communication Between AI and Improvising Musicians Beyond Sound</b>. 1–11. <a href="https://doi.org/10.1145/3290605.3300268" target="_blank" rel="noopener noreferrer">https://doi.org/10.1145/3290605.3300268</a></a>
