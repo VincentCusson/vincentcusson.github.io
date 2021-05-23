@@ -18,22 +18,22 @@ We consider these explorations like *étude* as in the traditional use of the t
     </div>
 </div>
 
-### Adapting Existing Framework
+### Interaction and collaboration with musical agents
+From simple pitch detection categorization to more complex live musical listening, the different improvisation environments offer autonomous capabilities in their own way.<!-- [description of what is an agent --> We are collaborating with each composer-programmer and have their permission to modify and perform the patches.
+#### Adapting Existing Framework
 We are adapting these three environments to our specific performance situation:
-* **DYCI2** by [Jérôme Nika](https://jeromenika.com/) (France)
+* **DYCI2** by [Jérôme Nika](https://jeromenika.com/) (France) <!-- [Insert descriptions for each] -->
 * **_derivations** by [Ben Carey](https://bencarey.net/) (Australia)
 * **CTIP2** by [Sergio Kafejian](https://musicabrasilis.com/composers/sergio-kafejian) (Brazil)
 
-From simple pitch detection categorization to more complex live musical listening, the different improvisation environments offer autonomous capabilities in their own way. Two of them include audio effects that are modified either via agent input or manually. We already started customizing CTIP2 and DYCI2 for our needs by adding or refining graphical user interface (GUI) features. We want to play with these tools and explore their minute functions and details; amazing things can occur when testing the limits of such systems. We are collaborating with each composer-programmer and have their permission to modify and perform the patches. 
+ Two of them include audio effects that are modified either via agent input or manually. We already started customizing CTIP2 and DYCI2 for our needs by adding or refining graphical user interface (GUI) features. We want to play with these tools and explore their minute functions and details; amazing things can occur when testing the limits of such systems.  
 
-### Interaction and collaboration with musical agents
 Currently, the realtime control over the multiple parameters of an agent is somewhat limited. 
 It is possible to interact with the system via Max/MSP’s GUI and with typical computer input interfaces like the keyboard, the mouse, or a MIDI controller. It is often the role of a dedicated performer playing the electronics. However, we argue that an instrumentist should be able to control directly some parameters to enable more intricate interaction with a musical agent.
 
 It has been shown that two-way communication between a musician and an improvising musical agent (<a href="#corma2019">McCormack, 2019</a>) helps reach the state of flow (<a href="#csiks2000">Csikszentmihalyi, 1990</a>). Multimodal feedback should inform the instrumentist about the patch state during an improvisation. Besides the obvious sonic output from the agent, our first iteration will integrate visual indicators via a screen. Attempting to ease the performers cognitive load<!-- [magnusson] -->, all parameters cannot be shown at the same time. Further research would involve experimenting with haptic feedback<!-- [hapticKeys] --> as another communication channel. In any case, we’ll have to build the system gradually to allow for more complex collaborative scenarios over time. 
 
-
-<br><br>
+<br>
 Towards this goal, we will develop a digital interface fixed onto an instrument, which would send data to the computer for further processing. The design of similar digital musical instruments (DMI) and various forms of meta- or augmented instrument is not new and our work is inspired by colleagues at IDMIL <!-- [EDU] --> (<a href="#sulli2018">Sullivan, 2018</a>) and elsewhere <!-- [andrewMcPherson] -->.
 
 ### The Tube
@@ -49,8 +49,9 @@ An emphasis will be put on the instrumentist preferences regarding some inherent
 
 
 ### Acknowledgment
-More information of Tommy’s DMus recital including musical agents can be found on [this website](https://www.mcgill.ca/music/channels/event/doctoral-recital-thomas-davis-saxophone-329499).<br>
-This project is being supported by a CIRMMT Student Award (2021-2022).
+This project is being supported by a **CIRMMT** Student Award (2021-2022).
+Information on Tommy’s DMus recital can be found [here](https://www.mcgill.ca/music/channels/event/doctoral-recital-thomas-davis-saxophone-329499).<br>
+
 
 
 ## References
