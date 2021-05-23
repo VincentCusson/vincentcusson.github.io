@@ -18,9 +18,9 @@ We consider these explorations like *étude* as in the traditional use of the t
     </div>
 </div>
 
-### Interaction and collaboration with musical agents
+## Interaction and collaboration with musical agents
 From simple pitch detection categorization to more complex live musical listening, the different improvisation environments offer autonomous capabilities in their own way.<!-- [description of what is an agent --> We are collaborating with each composer-programmer and have their permission to modify and perform the patches.
-#### Adapting Existing Framework
+### Adapting Existing Framework
 We are adapting these three environments to our specific performance situation:
 * **DYCI2** by [Jérôme Nika](https://jeromenika.com/) (France) <!-- [Insert descriptions for each] -->
 * **_derivations** by [Ben Carey](https://bencarey.net/) (Australia)
@@ -36,20 +36,21 @@ It has been shown that two-way communication between a musician and an improvisi
 <br>
 Towards this goal, we will develop a digital interface fixed onto an instrument, which would send data to the computer for further processing. The design of similar digital musical instruments (DMI) and various forms of meta- or augmented instrument is not new and our work is inspired by colleagues at IDMIL <!-- [EDU] --> (<a href="#sulli2018">Sullivan, 2018</a>) and elsewhere <!-- [andrewMcPherson] -->.
 
-### The Tube
+## The Tube
 In addition to traditional instruments, we will work with an unusual one: The Tube. It is a two-meter-long flexible plastic tube with a saxophone mouthpiece attached at one end. The inspiration comes from the concept of *infra-instrument* described as "restricted in its expressivity, broken or only a portion of a standard instrument" (<a href="#bow2005">Bowers, 2005</a>). This allows the performer to maintain a certain level of control over the sound production, articulations, and dynamics developed from years of musical training. The cylindrical tube reacts differently than the saxophone body producing inharmonic sounds, overtones, and rich textures. 
 Tommy has improvised with tubes in collaborative performances with [Wild Space Dance](https://www.youtube.com/watch?v=G0XABGUDFfA) in Brooklyn (2015), Ensemble AKA for [No Hay Banda](https://www.youtube.com/watch?v=9rotwgh_ZTE) (2017), and with Duo d’Entre-Deux for the co-improvised [Reverberant House](https://www.youtube.com/watch?v=Ho4u9VrFzlE) (2019) produced by Codes d’accès.
 
 The simplicity of its design is appealing for us since it offers more liberty—as in less physical constraints<!-- [magnusson] -->—for augmenting it with electronics. We are now faced with this interesting question; what happens when you *augment* an *infra* instrument..?
 
-### Controller design
+## Controller design
 For our first prototype, we plan to model and 3D print the body of the controller. It should be fixed to the acoustic instrument without hindrance to the performer. Custom electronics based on the esp8266 (WIFI enabled Arduino-like boards) will be interfacing the sensors and actuators to relay information between the musician and the musical agent.
 An emphasis will be put on the instrumentist preferences regarding some inherent qualities of sensors used for bimanual interaction. The use of human-centered design strategies has been proved to be an efficient way to facilitate the learningship of a new digital instrument (<a href="#sulli2021">Sullivan, 2021</a>). 
  <!-- [image3Dmodel] -->
 
 
-### Acknowledgment
+## Acknowledgment
 This project is being supported by a **CIRMMT** Student Award (2021-2022).
+
 Information on Tommy’s DMus recital can be found [here](https://www.mcgill.ca/music/channels/event/doctoral-recital-thomas-davis-saxophone-329499).<br>
 
 
