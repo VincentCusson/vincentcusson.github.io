@@ -56,7 +56,7 @@ Information on Tommy’s DMus recital can be found [here](https://www.mcgill.ca/
 
 
 ## References
-<p>
+<p style="text-align: left">
 <a style="font-size:80%; color:grey; text-align: left" name="nika2017">Nika, J., Déguernel, K., Chemla–Romeu-Santos, A., Vincent, E., & Assayag, G. (2017). <b>DYCI2 Agents: Merging the “free”, "reactive”, and "scenario-Based” Music Generation Paradigms</b>. International Computer Music Conference.</a>
 
 <a style="font-size:80%; color:grey; text-align: left" name="csiks1990"> Csikszentmihalyi, M. (1990). <b>Flow: The psychology of optimal experience</b>. (Vol. 1990). New York: Harper & Row.</a>
