@@ -61,9 +61,9 @@ Information on Tommy’s DMus recital can be found [here](https://www.mcgill.ca/
 
 <a style="font-size:80%; color:grey; text-align: left" name="csiks1990"> Csikszentmihalyi, M. (1990). <b>Flow: The psychology of optimal experience</b>. (Vol. 1990). New York: Harper & Row.</a>
 
-<a style="font-size:80%; color:grey; text-align: left" name="bow2005">Bowers, J., & Archer, P. (2005). <b>Not Hyper, Not Meta, Not Cyber but Infra-Instruments</b>. 5–10. <a href="https://www.nime.org/proceedings/2005/nime2005_005.pdf" target="_blank" rel="noopener noreferrer">https://www.nime.org/proceedings/2005/nime2005_005.pdf</a></a>
+<a style="font-size:80%; color:grey; text-align: left" name="bow2005">Bowers, J., & Archer, P. (2005). <b>Not Hyper, Not Meta, Not Cyber but Infra-Instruments</b>. 5–10. <a style="font-size:80%" href="https://www.nime.org/proceedings/2005/nime2005_005.pdf" target="_blank" rel="noopener noreferrer">https://www.nime.org/proceedings/2005/nime2005_005.pdf</a></a>
 
-<a style="font-size:80%; color:grey; text-align: left" name="sulli2018">Sullivan, J., Tibbitts, A., Gatinet, B., & Wanderley, M. M. (2018). <b>Gestural control of augmented instrumental performance: A case study of the concert harp</b>. Proceedings of the 5th International Conference on Movement and Computing, 1–8. <a href="https://doi.org/10.1145/3212721.3212814" target="_blank" rel="noopener noreferrer">https://doi.org/10.1145/3212721.3212814</a></a>
+<a style="font-size:80%; color:grey; text-align: left" name="sulli2018">Sullivan, J., Tibbitts, A., Gatinet, B., & Wanderley, M. M. (2018). <b>Gestural control of augmented instrumental performance: A case study of the concert harp</b>. Proceedings of the 5th International Conference on Movement and Computing, 1–8. <a style="font-size:80%" href="https://doi.org/10.1145/3212721.3212814" target="_blank" rel="noopener noreferrer">https://doi.org/10.1145/3212721.3212814</a></a>
 
 <a style="font-size:80%; color:grey; text-align: left" name="sulli2021">Sullivan, J. (2021). <b>Built to perform: Designing digital musical instruments for professional use</b>. [Ph.D. thesis, McGill University]. <a style="font-size:80%" href="https://johnnyvenom.com/files/sullivan_phd_thesis.pdf" target="_blank" rel="noopener noreferrer">https://johnnyvenom.com/files/sullivan_phd_thesis.pdf</a></a>
 
