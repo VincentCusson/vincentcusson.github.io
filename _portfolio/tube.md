@@ -34,7 +34,7 @@ It is possible to interact with the system via Max/MSP’s GUI and with typical 
 It has been shown that two-way communication between a musician and an improvising musical agent (<a href="#corma2019">McCormack, 2019</a>) helps reach the state of flow (<a href="#csiks2000">Csikszentmihalyi, 1990</a>). Multimodal feedback should inform the instrumentist about the patch state during an improvisation. Besides the obvious sonic output from the agent, our first iteration will integrate visual indicators via a screen. Attempting to ease the performers cognitive load<!-- [magnusson] -->, all parameters cannot be shown at the same time. Further research would involve experimenting with haptic feedback<!-- [hapticKeys] --> as another communication channel. In any case, we’ll have to build the system gradually to allow for more complex collaborative scenarios over time. 
 
 <br>
-Towards this goal, we will develop a digital interface fixed onto an instrument, which would send data to the computer for further processing. The design of similar digital musical instruments (DMI) and various forms of meta- or augmented instrument is not new and our work is inspired by colleagues at IDMIL <!-- [EDU] --> (<a href="#sulli2018">Sullivan, 2018</a>) and elsewhere <!-- [andrewMcPherson] -->.
+Towards this goal, we will develop a digital interface fixed onto an instrument, which would send data to the computer for further processing. The design of similar digital musical instruments (DMI) and various forms of meta- or augmented instrument is not new and our work is inspired by colleagues at IDMIL <!-- [EDU] --> (<a href="#sulli2018">Sullivan, 2018</a>) and elsewhere<!-- [andrewMcPherson] -->.
 
 ## The Tube
 In addition to traditional instruments, we will work with an unusual one: The Tube. It is a two-meter-long flexible plastic tube with a saxophone mouthpiece attached at one end. The inspiration comes from the concept of *infra-instrument* described as "restricted in its expressivity, broken or only a portion of a standard instrument" (<a href="#bow2005">Bowers, 2005</a>). This allows the performer to maintain a certain level of control over the sound production, articulations, and dynamics developed from years of musical training. The cylindrical tube reacts differently than the saxophone body producing inharmonic sounds, overtones, and rich textures. 
@@ -58,7 +58,7 @@ Information on Tommy’s DMus recital can be found [here](https://www.mcgill.ca/
 ## References
 <p style="text-align: left">
 <a style="font-size:80%; color:grey; text-align: left" name="nika2017">Nika, J., Déguernel, K., Chemla–Romeu-Santos, A., Vincent, E., & Assayag, G. (2017). <b>DYCI2 Agents: Merging the “free”, "reactive”, and "scenario-Based” Music Generation Paradigms</b>. International Computer Music Conference.</a>
-<br>
+<br><br>
 <a style="font-size:80%; color:grey; text-align: left" name="csiks1990"> Csikszentmihalyi, M. (1990). <b>Flow: The psychology of optimal experience</b>. (Vol. 1990). New York: Harper & Row.</a>
 <br>
 <a style="font-size:80%; color:grey; text-align: left" name="bow2005">Bowers, J., & Archer, P. (2005). <b>Not Hyper, Not Meta, Not Cyber but Infra-Instruments</b>. 5–10. <a style="font-size:80%" href="https://www.nime.org/proceedings/2005/nime2005_005.pdf" target="_blank" rel="noopener noreferrer">https://www.nime.org/proceedings/2005/nime2005_005.pdf</a></a>

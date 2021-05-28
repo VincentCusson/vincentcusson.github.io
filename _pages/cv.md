@@ -49,6 +49,7 @@ Teaching
 
 Scholarships and Awards
 ======
+* **CIRMMT** Student Award (2021-2022) 
 * **Sara Berlind Memorial Fellowship** 2019
 	* Récipiendaire de la bourse lors de l’admission aux cycles supérieurs	
 * **Graduate Excellence Fellowship** 2019
@@ -61,10 +62,6 @@ Scholarships and Awards
   * Récipiendaire de la bourse d'excellence en composition et nouveaux médias pour la pièce *Heureux qui comme lui à fait bon voyage*
 * **Concours Sennheiser Canada** 2016
 	* Récipiendaire de la bourse d'excellence en composition et nouveaux médias pour la pièce *Loghorée*
-* **Bourse Prototypes UQAM + MOMENT FACTORY** 2016
-  * Co-récipiendaire de la bourse pour l'installation *entre les formes*
-* **Digicamp Printemps Numérique** 2016
-  * Équipe gagnante du prix de l'innovation sociale en collaboration avec le journal Metro
 
 
 
