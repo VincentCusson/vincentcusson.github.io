@@ -49,15 +49,16 @@ Teaching
 
 Scholarships and Awards
 ======
-* **CIRMMT** Student Award (2021-2022) 
+* **CIRMMT** 2021-2022
+  * Student Award for the project Etu{d,b}e
 * **Sara Berlind Memorial Fellowship** 2019
 	* Récipiendaire de la bourse lors de l’admission aux cycles supérieurs	
 * **Graduate Excellence Fellowship** 2019
   * Récipiendaire de la bourse lors de l’admission aux cycles supérieurs
 * **MusicMotion Hacklab** 2019
   * Équipe gagnante du hackaton avec notre projet *Recursive Noodle Network*
-* **Pixel Challenge** 2017
-  * Mention spéciale pour la composition d'une trame générative
+<!-- * **Pixel Challenge** 2017
+  * Mention spéciale pour la composition d'une trame générative -->
 * **Concours Sennheiser Canada** 2017
   * Récipiendaire de la bourse d'excellence en composition et nouveaux médias pour la pièce *Heureux qui comme lui à fait bon voyage*
 * **Concours Sennheiser Canada** 2016
@@ -65,13 +66,13 @@ Scholarships and Awards
 
 
 
-Skills
+<!-- Skills
 ======
 * Maitrise des environnements de programmation audio tel Max/MSP, Pure Data, Supercollider, and Reaktor
 * Good knowledge of various DAW like Ableton Live, Reaper, and Pro Tools
 * Experience with different systems and tools for multicanal audio spatialisation 
 * Knowledge of management tools like Git, and Jira
-* Basis in acoustic and digital signal processing
+* Basis in acoustic and digital signal processing -->
 
 
 
