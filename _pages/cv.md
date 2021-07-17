@@ -57,8 +57,6 @@ Scholarships and Awards
   * Récipiendaire de la bourse lors de l’admission aux cycles supérieurs
 * **MusicMotion Hacklab** 2019
   * Équipe gagnante du hackaton avec notre projet *Recursive Noodle Network*
-<!-- * **Pixel Challenge** 2017
-  * Mention spéciale pour la composition d'une trame générative -->
 * **Concours Sennheiser Canada** 2017
   * Récipiendaire de la bourse d'excellence en composition et nouveaux médias pour la pièce *Heureux qui comme lui à fait bon voyage*
 * **Concours Sennheiser Canada** 2016
