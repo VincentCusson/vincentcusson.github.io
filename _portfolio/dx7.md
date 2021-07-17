@@ -1,6 +1,6 @@
 ---
 title: "DX7 Preset Explorer"
-excerpt: "TODO. <br/><img src='/images/tube.jpeg'>"
+excerpt: "TODO <br/><img src='/images/cartridge.jpeg'>"
 collection: portfolio
 ---
 
