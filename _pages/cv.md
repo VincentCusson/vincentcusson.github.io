@@ -39,7 +39,7 @@ Work experience and internships
   * Research Assistant
   * Aide à la conception et à l’installation d’un dôme de 32 haut-parleurs. Développement et intégration des différents logiciels de composition et de spatialisation.
 
-Teaching
+Teaching Assistantship
 ======
 * **EDM2507** - Création sonore interactive
 * **EDM3840** - Technologie des médias
