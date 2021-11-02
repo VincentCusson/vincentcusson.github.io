@@ -9,11 +9,26 @@ collection: portfolio
 <script src="/assets/js/OBJLoader.js">
 
 
-
-<div id="cube">
-  <div id="param" class="dat-gui">
+<div class='threejs'>
+  <div id="cube">
+    <div id="param" class="dat-gui">
+    </div>
   </div>
 </div>
+
+.threejs {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 aspect ratio */
+}
+.threejs > * {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
 
 <script src="/assets/js/cube.js"></script>
 
