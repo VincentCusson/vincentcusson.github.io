@@ -9,21 +9,18 @@ collection: portfolio
 <script src="/assets/js/OBJLoader.js">
 
 
-<div class='threejs'>
-    <div id='cube'></div>
-</div>
-
-<canvas id="canvas-holder">
-</canvas>
-
-<style> .highlight-left {margin-left: 0} canvas { position: relative; top: 0;} </style>
 
 <style>
-  canvas { width: inherit; position: relative; top: 0;}
+.highlight-left {margin-left: 0}
+canvas { position: relative; top: 0;}
 </style>
 
-<div id='canvas-holder' style="position: relative; width: inherit;">
-  <div id='dat-gui-holder' style="position: absolute; top: 0em; right: 0em; z-index: 1;"></div>
+<div id="canvas-holder" style="position:relative; width: 100%;">
+  <div id="dat-gui-holder" style="position: absolute; top: 0em; right: 0em;z-index: 1;"></div>
+</div>
+
+<div class='threejs'>
+    <div id='cube'></div>
 </div>
 
 
