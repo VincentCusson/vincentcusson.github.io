@@ -1,10 +1,8 @@
 ---
-title: "Test Three.js"
-excerpt: "TODO <br/><img src='/images/cartridge.jpeg'>"
+title: "MOCAP Data Visualization"
+excerpt: "This is a page deticated to experiments with an interactive 3D visualizer to explore musical perfomance MOCAP data. <br/><img src='/images/tube3D.png'>"
 collection: portfolio
 ---
-
-coucou test coucou
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
 
