@@ -13,6 +13,8 @@ collection: portfolio
     <div id='cube'></div>
 </div>
 
+<canvas id="canvas-holder">
+</canvas>
 
 <style> .highlight-left {margin-left: 0} canvas { position: relative; top: 0;} </style>
 
