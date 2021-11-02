@@ -60,7 +60,7 @@ function init() {
   renderer.setPixelRatio(window.devicePixelRatio);
   renderer.setSize(width, height);
   container.appendChild(renderer.domElement);
-});
+}
 
 
 function animate() {
@@ -68,7 +68,7 @@ function animate() {
   mesh.rotation.x += 0.005;
   mesh.rotation.y += 0.01;
   renderer.render(scene, camera);
-});
+}
 
 </script>
 
