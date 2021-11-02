@@ -15,7 +15,7 @@ collection: portfolio
   </div>
 </div>
 
-
+<script src="/assets/js/cube.js"></script>
 
 <!-- <style>
 .highlight-left {margin-left: 0}
@@ -27,4 +27,3 @@ canvas { position: relative; top: 0;}
 </div> -->
 
 
-<script src="/assets/js/cube.js"></script>
