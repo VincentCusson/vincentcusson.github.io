@@ -5,6 +5,8 @@ collection: portfolio
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+<script type="text/javascript" src="dat.gui.min.js"></script>
+
 
 <div class='threejs'>
     <div id='cube'></div>
@@ -26,4 +28,5 @@ collection: portfolio
 </style>
 
 
-<script src="/assets/js/cube.js"></script>
+<!-- <script src="/assets/js/cube.js"></script> -->
+<script src="/assets/js/tube.js"></script>
