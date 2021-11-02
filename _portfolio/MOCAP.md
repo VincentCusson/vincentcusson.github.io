@@ -13,6 +13,14 @@ collection: portfolio
 </div>
 
 <style>
+  canvas { width: inherit; position: relative; top: 0;}
+</style>
+<div id='canvas-holder' style="position: relative; width: inherit;">
+  <div id="dat-gui-holder" style="position: absolute; top: 0em; right: 0em; z-index: 1;"></div>
+</div>
+
+
+<style>
 .threejs {
   position: relative;
   width: 100%;
