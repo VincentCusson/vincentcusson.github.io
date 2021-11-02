@@ -10,7 +10,7 @@ collection: portfolio
 
 
 
-<div id="cube" style="--aspect-ratio:16/9;">
+<div id="cube">
   <div id="param" class="dat-gui">
   </div>
 </div>
