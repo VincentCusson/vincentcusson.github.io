@@ -9,14 +9,22 @@ collection: portfolio
 <script src="/assets/js/OBJLoader.js">
 
 
-<style>
+
+<div id="cube" style="--aspect-ratio:16/9;">
+  <div id="param" class="dat-gui">
+  </div>
+</div>
+
+
+
+<!-- <style>
 .highlight-left {margin-left: 0}
 canvas { position: relative; top: 0;}
 </style>
 
 <div id="canvas-holder" style="position:relative; width: 100%;">
   <div id="dat-gui-holder" style="position: absolute; top: 0em; right: 0em;z-index: 1;"></div>
-</div>
+</div> -->
 
 
-<script src="/assets/js/tube.js"></script>
+<script src="/assets/js/cube.js"></script>

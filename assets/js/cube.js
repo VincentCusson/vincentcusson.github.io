@@ -1,14 +1,24 @@
 var camera, scene, renderer;
 var geometry, material, mesh;
 
+
 init();
 animate();
+
+
 
 function init() {
   var container = document.getElementById("cube");
   var width = container.clientWidth;
   var height = container.clientHeight;
-
+  
+  var params = { rpm_x: 7.0, rpm_y: -5.0, rpm_z: 0.0 };
+  var gui = new dat.GUI({ autoPlace: false });
+  gui.add(params, "rpm_x", -10, 10).step(1);
+  gui.add(params, "rpm_y", -10, 10).step(1);
+  gui.add(params, "rpm_z", -10, 10).step(1);
+  gui.close();
+  document.getElementById("param").appendChild(gui.domElement);
 
   scene = new THREE.Scene();
   scene.background = new THREE.Color(0xffffff);
