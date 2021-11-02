@@ -16,6 +16,7 @@ collection: portfolio
   </div>
 </div>
 
+<style>
 .threejs {
   position: relative;
   width: 100%;
@@ -28,7 +29,7 @@ collection: portfolio
   left: 0;
   right: 0;
 }
-
+</style>
 
 <script src="/assets/js/cube.js"></script>
 
