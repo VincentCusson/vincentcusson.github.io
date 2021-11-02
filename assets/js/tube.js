@@ -191,7 +191,7 @@ function init() {
     directionalLight.position.set( 1, 1, 1 );
     scene.add( directionalLight );
 
-    var canvasHolder = document.getElementById('canvas-holder');
+    var canvasHolder = document.getElementById('cube');
 
     var width = canvasHolder.clientWidth;
     var height = width * 0.8;
