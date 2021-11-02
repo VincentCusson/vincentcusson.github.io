@@ -7,8 +7,10 @@ collection: portfolio
 coucou test coucou
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-<div id='cube'></div>
 
+<div class='threejs'>
+    <div id='cube'></div>
+</div>
 
 <style>
 
@@ -27,9 +29,7 @@ coucou test coucou
 
 </style>
 
-<div class='threejs'>
-    <div id='cube'></div>
-</div>
+
 
 <script>
 var container = document.getElementById('cube');
