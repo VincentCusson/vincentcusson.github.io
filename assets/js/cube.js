@@ -30,7 +30,7 @@ function init() {
   loadTeapot();
 
   // grid
-  scene.add(new THREE.GridHelper(1, 10));
+  scene.add(new THREE.GridHelper(5, 10));
 
 
   camera = new THREE.PerspectiveCamera(70, width / height, 0.01, 10);
