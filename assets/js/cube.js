@@ -5,7 +5,7 @@ var geometry, material, mesh;
 init();
 loadTeapot();
 //animate();
-
+renderer.render(scene, camera);
 
 function init() {
   var container = document.getElementById("cube");
