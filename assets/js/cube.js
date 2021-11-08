@@ -98,7 +98,7 @@ function loadTeapot(){
     var tpLoader = new THREE.OBJLoader(manager);
     tpLoader.load('/images/tube.obj', function(object) {
         var mesh;
-        object.scale.multiplyScalar(2);
+        object.scale.multiplyScalar(1000);
         object.traverse(function(child){
             if (child instanceof THREE.Mesh) {
                 child.material = material;
