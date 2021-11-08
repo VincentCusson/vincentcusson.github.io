@@ -7,7 +7,7 @@ collection: portfolio
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.7/dat.gui.min.js"></script>
 <script src="/assets/js/OBJLoader.js"></script>
-<script src="/assets/js/OrbitControls.js"></script>
+<script type="module" src="/assets/js/OrbitControls.js"></script>
 
 
 <div class='threejs'>
