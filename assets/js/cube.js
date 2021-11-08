@@ -109,7 +109,7 @@ function loadTeapot(){
         //var teapot = new THREE.Mesh(currentTeapotGeometry, teapotMaterial);
         geometry = mesh.geometry;
         
-        var teapot = new THREE.Mesh(currentTeapotGeometry, material);
+        var teapot = new THREE.Mesh(geometry, material);
         teapot.name = 'teapot';
         scene.add(teapot);
     }, onProgress, onError);
