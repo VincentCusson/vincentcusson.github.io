@@ -29,7 +29,10 @@ function init() {
   scene.add(mesh);
   loadTeapot();
 
-  
+  // grid
+  scene.add(new THREE.GridHelper(1, 10));
+
+
   camera = new THREE.PerspectiveCamera(70, width / height, 0.01, 10);
   camera.position.z = 2;
 
@@ -40,7 +43,10 @@ function init() {
   renderer.setSize(width, height);
   container.appendChild(renderer.domElement);
 
-  const controls = new THREE.OrbitControls( camera, renderer.domElement );
+  // control
+  controls = new THREE.OrbitControls(camera, renderer.domElement);
+  controls.target = new THREE.Vector3(0, 0.3, 0);
+  controls.maxPolarAngle = Math.PI / 2;
   controls.update();
 
 }
