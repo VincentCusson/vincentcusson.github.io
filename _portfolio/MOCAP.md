@@ -7,7 +7,8 @@ collection: portfolio
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.7/dat.gui.min.js"></script>
 <script src="/assets/js/OBJLoader.js"></script>
-<script src="/assets/js/OrbitControls.js"></script>
+<script src="https://cdn.skypack.dev/three@0.131.1/examples/jsm/controls/OrbitControls"></script>
+
 
 <div class='threejs'>
   <div id="cube">
