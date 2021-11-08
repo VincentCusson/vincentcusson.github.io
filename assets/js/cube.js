@@ -1,5 +1,6 @@
 var camera, scene, renderer;
 var geometry, material, mesh;
+import { OrbitControls } from "https://threejs.org/examples/jsm/controls/OrbitControls.js";
 
 
 init();
@@ -39,7 +40,7 @@ function init() {
   renderer.setSize(width, height);
   container.appendChild(renderer.domElement);
 
-  const controls = new THREE.OrbitControls( camera, renderer.domElement );
+  const controls = new OrbitControls( camera, renderer.domElement );
   controls.update();
 
 }
