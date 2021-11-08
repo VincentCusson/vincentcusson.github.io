@@ -40,7 +40,7 @@ function init() {
   renderer.setSize(width, height);
   container.appendChild(renderer.domElement);
 
-  const controls = new THREE.OrbitControls( camera, renderer.domElement );
+  const controls = new OrbitControls( camera, renderer.domElement );
   controls.update();
 
 }
