@@ -3,7 +3,7 @@ var geometry, material, mesh;
 
 
 init();
-loadTeapot();
+
 //animate();
 renderer.render(scene, camera);
 
@@ -26,12 +26,15 @@ function init() {
   material = new THREE.MeshNormalMaterial();
   mesh = new THREE.Mesh(geometry, material);
   scene.add(mesh);
+  loadTeapot();
 
   
   camera = new THREE.PerspectiveCamera(70, width / height, 0.01, 10);
   camera.position.z = 2;
+  const controls = new OrbitControls( camera, renderer.domElement );
+  controls.update();
 
-  
+
   renderer = new THREE.WebGLRenderer({ antialias: true });
   renderer.setPixelRatio(window.devicePixelRatio);
   renderer.setSize(width, height);
@@ -41,8 +44,9 @@ function init() {
 
 function animate() {
   requestAnimationFrame(animate);
-  mesh.rotation.x += 0.005;
-  mesh.rotation.y += 0.01;
+  controls.update();
+  //mesh.rotation.x += 0.005;
+  //mesh.rotation.y += 0.01;
   renderer.render(scene, camera);
 }
 
