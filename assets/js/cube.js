@@ -3,6 +3,7 @@ var geometry, material, mesh;
 
 
 init();
+loadTeapot();
 animate();
 
 
