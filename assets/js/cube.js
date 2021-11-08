@@ -27,13 +27,14 @@ function init() {
 //   material = new THREE.MeshNormalMaterial();
 //   mesh = new THREE.Mesh(geometry, material);
 //   scene.add(mesh);
+
   loadTeapot();
 
   // grid
   scene.add(new THREE.GridHelper(5, 10));
 
 
-  camera = new THREE.PerspectiveCamera(70, width / height, 0.01, 10);
+  camera = new THREE.PerspectiveCamera(70, width / height, 0.01, 10); // see params
   camera.position.z = 2;
 
 
@@ -97,6 +98,7 @@ function loadTeapot(){
     var tpLoader = new THREE.OBJLoader(manager);
     tpLoader.load('/images/tube.obj', function(object) {
         var mesh;
+        object.scale.multiplyScalar(2);
         object.traverse(function(child){
             if (child instanceof THREE.Mesh) {
                 child.material = material;
