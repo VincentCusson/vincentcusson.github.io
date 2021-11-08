@@ -31,14 +31,17 @@ function init() {
   
   camera = new THREE.PerspectiveCamera(70, width / height, 0.01, 10);
   camera.position.z = 2;
-  const controls = new OrbitControls( camera, renderer.domElement );
-  controls.update();
+
 
 
   renderer = new THREE.WebGLRenderer({ antialias: true });
   renderer.setPixelRatio(window.devicePixelRatio);
   renderer.setSize(width, height);
   container.appendChild(renderer.domElement);
+
+  const controls = new THREE.OrbitControls( camera, renderer.domElement );
+  controls.update();
+
 }
 
 
