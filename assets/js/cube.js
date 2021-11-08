@@ -5,7 +5,7 @@ var geometry, material, mesh;
 
 init();
 
-//animate();
+animate();
 renderer.render(scene, camera);
 
 function init() {
