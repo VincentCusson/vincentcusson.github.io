@@ -23,4 +23,4 @@ In fall 2019, I began a master's degree in **Music Technology** at **McGill**. I
 - Gesture-based interaction
 
 <br>
-**contact:** lastname[dot]firstletteroffirstname[at]gmail[dot]com
+**contact:** cusson[dot]v[at]gmail[dot]com
