@@ -23,10 +23,10 @@ function init() {
 
   scene = new THREE.Scene();
   scene.background = new THREE.Color(0xffffff);
-  geometry = new THREE.BoxGeometry(1, 1, 1);
-  material = new THREE.MeshNormalMaterial();
-  mesh = new THREE.Mesh(geometry, material);
-  scene.add(mesh);
+//   geometry = new THREE.BoxGeometry(1, 1, 1);
+//   material = new THREE.MeshNormalMaterial();
+//   mesh = new THREE.Mesh(geometry, material);
+//   scene.add(mesh);
   loadTeapot();
 
   // grid
