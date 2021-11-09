@@ -117,9 +117,9 @@ function loadTeapot(){
 
         // insert the teapot object into scene
         //var teapot = new THREE.Mesh(currentTeapotGeometry, teapotMaterial);
-        //geometry = mesh.geometry;
-        geometry = new THREE.Geometry().fromBufferGeometry(mesh.geometry);
-        geometry.mergeVertices();
+        geometry = mesh.geometry;
+        //geometry = new THREE.Geometry().fromBufferGeometry(mesh.geometry);
+        //geometry.mergeVertices();
         
         var teapot = new THREE.Mesh(geometry, material);
         teapot.name = 'teapot';
