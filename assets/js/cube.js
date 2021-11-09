@@ -97,6 +97,13 @@ function loadTeapot(){
                 child.material = material;
                 mesh = child;
                 console.log(mesh);
+                geometry = mesh.geometry;
+                //geometry = new THREE.Geometry().fromBufferGeometry(mesh.geometry);
+                //geometry.mergeVertices();
+                
+                var teapot = new THREE.Mesh(geometry, material);
+                teapot.name = 'teapot';
+                scene.add(teapot);
             }
         });
 
