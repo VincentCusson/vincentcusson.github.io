@@ -46,7 +46,7 @@ function init() {
 
   // control
   controls = new THREE.OrbitControls(camera, renderer.domElement);
-  controls.target = new THREE.Vector3(0, 0.3, 0);
+  controls.target = new THREE.Vector3(0, 0, 0);
   controls.maxPolarAngle = Math.PI / 2;
   controls.update();
 
@@ -103,6 +103,7 @@ function loadTeapot(){
             if (child instanceof THREE.Mesh) {
                 child.material = material;
                 mesh = child;
+                console.log(mesh);
             }
         });
 
