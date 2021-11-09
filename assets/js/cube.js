@@ -2,17 +2,21 @@ var camera, scene, renderer;
 var geometry, material, mesh;
 
 
-
 init();
-
 animate();
 renderer.render(scene, camera);
+
 
 function init() {
   var container = document.getElementById("cube");
   var width = container.clientWidth;
   var height = container.clientHeight;
   
+  // Scene
+  scene = new THREE.Scene();
+  scene.background = new THREE.Color(0xffffff);  
+
+  // GUI
   var params = { rpm_x: 7.0, rpm_y: -5.0, rpm_z: 0.0 };
   var gui = new dat.GUI({ autoPlace: false });
   gui.add(params, "rpm_x", -10, 10).step(1);
@@ -21,22 +25,15 @@ function init() {
   gui.close();
   document.getElementById("param").appendChild(gui.domElement);
 
-  scene = new THREE.Scene();
-  scene.background = new THREE.Color(0xffffff);
-//   geometry = new THREE.BoxGeometry(1, 1, 1);
-//   material = new THREE.MeshNormalMaterial();
-//   mesh = new THREE.Mesh(geometry, material);
-//   scene.add(mesh);
-
+  // Load OBJ function
   loadTeapot();
 
-  // grid
+  // Grid
   scene.add(new THREE.GridHelper(5, 10));
 
-
+  // Camera
   camera = new THREE.PerspectiveCamera(70, width / height, 0.01, 10); // see params
   camera.position.z = 2;
-
 
 
   renderer = new THREE.WebGLRenderer({ antialias: true });
@@ -44,29 +41,25 @@ function init() {
   renderer.setSize(width, height);
   container.appendChild(renderer.domElement);
 
-  // control
+  // Control
   controls = new THREE.OrbitControls(camera, renderer.domElement);
   controls.target = new THREE.Vector3(0, 0, 0);
   controls.maxPolarAngle = Math.PI / 2;
   controls.update();
-
 }
 
 
 function animate() {
   requestAnimationFrame(animate);
   controls.update();
-  //mesh.rotation.x += 0.005;
-  //mesh.rotation.y += 0.01;
   renderer.render(scene, camera);
 }
 
 
-// load teapot model and shader material
+
 function loadTeapot(){
 
-    // loading model
-    // teapot model loading aided by THREE.js
+    // loading tube model
     var manager = new THREE.LoadingManager();
     manager.onProgress = function (item, loaded, total) {
         console.log(item, loaded, total);
