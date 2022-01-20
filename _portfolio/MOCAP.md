@@ -3,6 +3,7 @@ title: "MOCAP Data Visualization"
 excerpt: "This is an experiment with an interactive 3D visualizer to explore musical perfomance MOCAP data. <br/><img src='/images/tube3D.png'>"
 collection: portfolio
 ---
+Text on top of visualizer..
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.7/dat.gui.min.js"></script>
@@ -32,7 +33,7 @@ collection: portfolio
 }
 </style>
 
-Text on top of visualizer..
+
 
 <script src="/assets/js/cube.js"></script>
 
