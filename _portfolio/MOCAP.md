@@ -11,30 +11,12 @@ Text on top of visualizer..
 <script src="/assets/js/OrbitControls.js"></script>
 
 
-<div class='threejs'>
-  <div id="cube" style="border:1px solid black;">
-    <div id="param" style="position: absolute; top: 0em; right: 0em;z-index: 1;" class="dat-gui">
-      </div>
-    </div>
-</div>
-
 <style>
-.threejs {
-  position: relative;
-  width: 100%;
-  padding-top: 56.25%;  /* 16:9 aspect ratio */
-}
-
-.threejs > * {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-}
-
+  canvas { width: inherit; position: relative; top: 0;}
 </style>
-
+<div id='canvas-holder' style="position: relative; width: inherit; border: 1px solid black">
+  <div id="dat-gui-holder" style="position: absolute; top: 0em; right: 0em; z-index: 1;"></div>
+</div>
 
 
 <script src="/assets/js/cube.js"></script>

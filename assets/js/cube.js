@@ -8,9 +8,10 @@ renderer.render(scene, camera);
 
 
 function init() {
-  var container = document.getElementById("cube");
-  var width = container.clientWidth;
-  var height = container.clientHeight;
+  var canvasHolder = document.getElementById("canvas-holder");
+  var width = canvasHolder.clientWidth;
+  var height = width * 0.56;
+  canvasHolder.clientHeight = height;
   
   // Scene
   scene = new THREE.Scene();
@@ -18,13 +19,13 @@ function init() {
 
   // GUI
   var params = { rpm_x: 7.0, rpm_y: -5.0, rpm_z: 0.0, reset: function() {controls.reset();} };
-  var gui = new dat.GUI({ width: 210 });
+  var gui = new dat.GUI({ autoPlace: false, width: 210 });
   gui.add(params, "rpm_x", -10, 10).step(1);
   gui.add(params, "rpm_y", -10, 10).step(1);
   gui.add(params, "rpm_z", -10, 10).step(1);    
   gui.add(params, 'reset');
   gui.close();
-  document.getElementById("cube").appendChild(gui.domElement);
+  document.getElementById("dat-gui-holder").appendChild(gui.domElement);
 
   // Load OBJ function
   loadTeapot();
@@ -40,7 +41,7 @@ function init() {
   renderer = new THREE.WebGLRenderer({ antialias: true });
   renderer.setPixelRatio(window.devicePixelRatio);
   renderer.setSize(width, height);
-  container.appendChild(renderer.domElement);
+  canvasHolder.appendChild(renderer.domElement);
 
   // Control
   controls = new THREE.OrbitControls(camera, renderer.domElement);
