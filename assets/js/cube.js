@@ -17,11 +17,12 @@ function init() {
   scene.background = new THREE.Color(0xffffff);  
 
   // GUI
-  var params = { rpm_x: 7.0, rpm_y: -5.0, rpm_z: 0.0 };
+  var params = { rpm_x: 7.0, rpm_y: -5.0, rpm_z: 0.0, reset: function() {controls.reset();} };
   var gui = new dat.GUI({ autoPlace: false });
   gui.add(params, "rpm_x", -10, 10).step(1);
   gui.add(params, "rpm_y", -10, 10).step(1);
   gui.add(params, "rpm_z", -10, 10).step(1);
+  gui.add(options, 'reset');
   gui.close();
   document.getElementById("param").appendChild(gui.domElement);
 
