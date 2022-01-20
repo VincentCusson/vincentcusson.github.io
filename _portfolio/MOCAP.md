@@ -24,6 +24,16 @@ Text on top of visualizer..
   width: 100%;
   padding-top: 56.25%; /* 16:9 aspect ratio */
 }
+
+.threejs > * {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+
 </style>
 
 
