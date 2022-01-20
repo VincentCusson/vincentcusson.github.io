@@ -13,16 +13,16 @@ Text on top of visualizer..
 
 <div class='threejs'>
   <div id="cube" style="border:1px solid black;">
-    <div id="param" class="dat-gui">
+    <div id="param" style="position: absolute; top: 0em; right: 0em;z-index: 1;" class="dat-gui">
+      </div>
     </div>
-  </div>
 </div>
 
 <style>
 .threejs {
   position: relative;
   width: 100%;
-  padding-top: 56.25%; /* 16:9 aspect ratio */
+  padding-top: 56.25%;  /* 16:9 aspect ratio */
 }
 
 .threejs > * {
@@ -32,7 +32,6 @@ Text on top of visualizer..
   left: 0;
   right: 0;
 }
-
 
 </style>
 

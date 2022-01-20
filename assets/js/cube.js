@@ -18,13 +18,13 @@ function init() {
 
   // GUI
   var params = { rpm_x: 7.0, rpm_y: -5.0, rpm_z: 0.0, reset: function() {controls.reset();} };
-  var gui = new dat.GUI({ autoPlace: false });
+  var gui = new dat.GUI({ width: 210 });
   gui.add(params, "rpm_x", -10, 10).step(1);
   gui.add(params, "rpm_y", -10, 10).step(1);
   gui.add(params, "rpm_z", -10, 10).step(1);    
   gui.add(params, 'reset');
   gui.close();
-  document.getElementById("param").appendChild(gui.domElement);
+  document.getElementById("cube").appendChild(gui.domElement);
 
   // Load OBJ function
   loadTeapot();
