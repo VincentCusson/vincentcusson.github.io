@@ -1,6 +1,6 @@
 ---
 title: "MOCAP Data Visualization"
-excerpt: "This is a page deticated to experiments with an interactive 3D visualizer to explore musical perfomance MOCAP data. <br/><img src='/images/tube3D.png'>"
+excerpt: "This is an experiment with an interactive 3D visualizer to explore musical perfomance MOCAP data. <br/><img src='/images/tube3D.png'>"
 collection: portfolio
 ---
 
@@ -32,7 +32,10 @@ collection: portfolio
 }
 </style>
 
+Text on top of visualizer..
+
 <script src="/assets/js/cube.js"></script>
 
 
 
+Text at the bottom of it.
