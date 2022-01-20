@@ -9,7 +9,6 @@ A Github Pages template for academic websites. This was forked (then detached) b
 - Make links open new windows?
 - Add photo credits
 - Add teaching CMPL
-- How to add 'teaching assistant'?
 - Change next-previous button by 'name of section'
 - Find carousell plugin
 - (re)create sitemap

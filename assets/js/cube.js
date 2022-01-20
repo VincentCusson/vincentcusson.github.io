@@ -21,7 +21,7 @@ function init() {
   var gui = new dat.GUI({ autoPlace: false });
   gui.add(params, "rpm_x", -10, 10).step(1);
   gui.add(params, "rpm_y", -10, 10).step(1);
-  gui.add(params, "rpm_z", -10, 10).step(1);
+  gui.add(params, "rpm_z", -10, 10).step(1);    
   gui.add(params, 'reset');
   gui.close();
   document.getElementById("param").appendChild(gui.domElement);
