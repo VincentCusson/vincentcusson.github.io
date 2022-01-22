@@ -26,3 +26,5 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'jekyll-scholar' # add citations and references to site
 end
+
+gem "unicode", "~> 0.4.4"

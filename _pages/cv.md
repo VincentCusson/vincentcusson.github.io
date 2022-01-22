@@ -7,6 +7,29 @@ redirect_from:
   - /resume
 ---
 
+<html>
+<head>
+<style>
+.custom-select 
+    {
+    position: absolute;
+    right: 0;
+}
+</style>
+</head>
+<body>
+<div class="custom-select" style="width:200px;">
+  <select id="langselector" onchange="loadlang()">
+    <option value="en">English</option>
+    <option value="fr">French</option>
+  </select>
+</div>
+<p></p>
+</body>
+</html>
+
+
+
 Education
 ======
 * M.S. in **Music Technology**, **McGill University**, 2019-current
