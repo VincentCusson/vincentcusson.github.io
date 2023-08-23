@@ -12,5 +12,6 @@ Production team: Pierre Bourdon (manufacturing, electronics) and Vincent Cusson 
 
 Presented for the first time during the Useful Fictions summer school by the *Chaire arts & sciences* at *École Polytechnique Paris*.
 
-https://hexagram.ca/en/atelier-hexagram-x-isea-2023/
-https://chaire-arts-sciences.org/2020/09/11/ecole-dete-arts-design-sciences/
+[https://hexagram.ca/en/atelier-hexagram-x-isea-2023/](https://hexagram.ca/en/atelier-hexagram-x-isea-2023/)
+
+[https://chaire-arts-sciences.org/2020/09/11/ecole-dete-arts-design-sciences/](https://chaire-arts-sciences.org/2020/09/11/ecole-dete-arts-design-sciences/)

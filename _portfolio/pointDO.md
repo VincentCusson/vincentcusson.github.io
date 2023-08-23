@@ -1,6 +1,6 @@
 ---
-title: "NXI - Point D.origine"
-excerpt: "An interactive sound installation that transposes architecture into sound timbres and music, through a mathematical object called "spherical harmonic”. <br/><img src='/images/pointDo_small.jpeg'>"
+title: "NXI - Point Dorigine"
+excerpt: "An interactive sound installation that transposes architecture into sound timbres and music, through a mathematical object called spherical harmonic. <br/><img src='/images/pointDo_small.jpeg'>"
 collection: portfolio
 order: 4
 ---
@@ -12,4 +12,4 @@ Production team: Vincent Cusson (software development, audio processing), Pierre
 
 Presented in 2019 at Chambord Castle.
 
-You can more information the project [here](https://chambord.nxigestatio.org/).
+You can find more information on the project [here](https://chambord.nxigestatio.org/).
