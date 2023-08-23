@@ -28,7 +28,7 @@ redirect_from:
 </body>
 </html>
 
-
+<p style="font-size:80%;">[outdated, will be updated soon]</p>
 
 Education
 ======
