@@ -2,6 +2,7 @@
 title: "Balance"
 excerpt: "This sound installation offers to the public an intimate exploration of the curious instrument that is the T-Stick. Let yourself be immersed in this dreamy sonic experience. <br/><img src='/images/balance_small.png'>"
 collection: portfolio
+order: 2
 ---
 
 - Title – Balance

@@ -2,6 +2,7 @@
 title: "MOCAP Data Visualization"
 excerpt: "This is an experiment with an interactive 3D visualizer to explore musical perfomance MOCAP data. <br/><img src='/images/tube3D.png'>"
 collection: portfolio
+order: 4
 ---
 Text on top of visualizer..
 

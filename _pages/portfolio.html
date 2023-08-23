@@ -8,7 +8,10 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+{% assign posts = collection.portfolio | sort: 'order' %}
+
+
+{% for post in posts %}
   {% include archive-project.html %}
 {% endfor %}
 
