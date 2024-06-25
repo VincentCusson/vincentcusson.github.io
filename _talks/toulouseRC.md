@@ -16,4 +16,4 @@ A partir de témoignages et d’exemples de performances en recherche - créatio
 
 [Pour plus d'informations](https://www.inrae.fr/evenements/co-creation-entre-humains-non-humains)
 
-You can also find my presentation [here](files/toulouse_eTube.pdf)
+You can also find my presentation [here](/files/toulouse_eTube.pdf)
