@@ -32,13 +32,18 @@ redirect_from:
 
 Education
 ======
-* M.S. in **Music Technology**, **McGill University**, 2019-current
+* PhD in **Études et Pratiques des arts**, **UQAM**, 2022-
+* M.S. in **Music Technology**, **McGill University**, 2019-
 * B.S. in **Interactive Media**, **UQAM**, 2015-2019
 
 
 Work experience and internships
 ======
-* 2016-current : **NXI Gestatio**
+* 2025: **University of Ottawa**
+  * Part Time Professor
+  * Teaching the MUS4715 - Topics in Music Technology
+
+* 2016-2025: **NXI Gestatio**
   * Research Assistant
   * Conception d’outils de composition et de diffusion pour des installations multimédias.
 
