@@ -1,6 +1,8 @@
 ---
 title: "Recursive Noodle Network"
+title_fr: "Recursive Noodle Network"
 excerpt: "This is a musical controller that uses ramen noodles as the main way of interaction. The project resembles a traditional sequencer but offers a new and different way to interact with the music. <br/><img src='/images/noodle_small.png'>"
+excerpt_fr: "Un contrôleur musical utilisant des nouilles ramen comme mode d'interaction principal. Le projet ressemble à un séquenceur traditionnel, mais propose une nouvelle façon d'interagir avec la musique. <br/><img src='/images/noodle_small.png'>"
 collection: portfolio
 order: 6
 ---

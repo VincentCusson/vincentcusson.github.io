@@ -1,11 +1,15 @@
-# main links links
-main:
+en:
   - title: "Projects"
-    url: /portfolio/
-          
+    url: /en/portfolio/
   - title: "Talks and Publications"
-    url: /publications/
-    
+    url: /en/publications/
   - title: "CV"
-    url: /cv/
-    
+    url: /en/cv/
+
+fr:
+  - title: "Projets"
+    url: /fr/portfolio/
+  - title: "Présentations et Publications"
+    url: /en/publications/
+  - title: "CV"
+    url: /fr/cv/

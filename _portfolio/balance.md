@@ -1,6 +1,8 @@
 ---
 title: "Balance"
+title_fr: "Balance"
 excerpt: "This sound installation offers to the public an intimate exploration of the curious instrument that is the T-Stick. Let yourself be immersed in this dreamy sonic experience. <br/><img src='/images/balance_small.png'>"
+excerpt_fr: "Cette installation sonore offre au public une exploration intime du curieux instrument qu'est le T-Stick. Laissez-vous immerger dans cette expérience sonore onirique. <br/><img src='/images/balance_small.png'>"
 collection: portfolio
 order: 5
 ---
