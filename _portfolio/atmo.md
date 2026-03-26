@@ -1,6 +1,8 @@
 ---
-title: "NXI - Atmosphéries"
-excerpt: "Atmosphéries is a research-creation program which produced a series of art installations originally called “Cloud Harps”. <br/><img src='/images/atmo_small.jpeg'>"
+title: “NXI - Atmosphéries”
+title_fr: “NXI - Atmosphéries”
+excerpt: “Atmosphéries is a research-creation program which produced a series of art installations originally called “Cloud Harps”. <br/><img src='/images/atmo_small.jpeg'>”
+excerpt_fr: “Atmosphéries est un programme de recherche-création ayant produit une série d'installations artistiques appelées «&nbsp;Harpes de nuages&nbsp;». <br/><img src='/images/atmo_small.jpeg'>”
 collection: portfolio
 order: 3
 ---

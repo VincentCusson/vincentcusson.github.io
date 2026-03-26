@@ -1,6 +1,8 @@
 ---
 title: "NXI - Point Dorigine"
+title_fr: "NXI - Point d'Origine"
 excerpt: "An interactive sound installation that transposes architecture into sound timbres and music, through a mathematical object called spherical harmonic. <br/><img src='/images/pointDo_small.jpeg'>"
+excerpt_fr: "Une installation sonore interactive qui transpose l'architecture en timbres sonores et en musique, à travers un objet mathématique appelé harmonique sphérique. <br/><img src='/images/pointDo_small.jpeg'>"
 collection: portfolio
 order: 4
 ---

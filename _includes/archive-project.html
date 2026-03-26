@@ -6,7 +6,10 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if post.id %}
+{% assign lang = include.lang | default: "en" %}
+{% if lang == "fr" and post.title_fr %}
+  {% assign title = post.title_fr %}
+{% elsif post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
   {% assign title = post.title %}
@@ -34,10 +37,15 @@
       {% endif %}
     </h2>
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% if lang == "fr" and post.excerpt_fr %}
+      {% assign display_excerpt = post.excerpt_fr %}
+    {% else %}
+      {% assign display_excerpt = post.excerpt %}
+    {% endif %}
+    {% if display_excerpt and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ display_excerpt | markdownify }}</p>
+    {% elsif display_excerpt and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ display_excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
   </article>

@@ -1,18 +1,15 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /en/portfolio/
-lang: en
+title: "Projets"
+permalink: /fr/portfolio/
+lang: fr
 author_profile: true
 ---
 
 {% include base_path %}
 
-
 {% assign posts = site.portfolio | sort: 'order' %}
-
 
 {% for post in posts %}
   {% include archive-project.html lang=page.lang %}
 {% endfor %}
-

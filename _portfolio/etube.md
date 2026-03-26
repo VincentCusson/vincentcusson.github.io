@@ -1,6 +1,8 @@
 ---
 title: "Etu{d,b}e"
+title_fr: "Etu{d,b}e"
 excerpt: "Performance setup in collaboration with Tommy Davis and autonomous musical agents. <br/><img src='/images/tube.jpeg'>"
+excerpt_fr: "Dispositif de performance en collaboration avec Tommy Davis et des agents musicaux autonomes. <br/><img src='/images/tube.jpeg'>"
 collection: portfolio
 order: 1
 ---

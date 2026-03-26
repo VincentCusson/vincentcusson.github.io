@@ -1,6 +1,8 @@
 ---
 title: "MOCAP Data Visualization"
+title_fr: "Visualisation de données MOCAP"
 excerpt: "This is an experiment with an interactive 3D visualizer to explore musical perfomance MOCAP data. <br/><img src='/images/tube3D.png'>"
+excerpt_fr: "Une expérimentation avec un visualiseur 3D interactif pour explorer les données de capture de mouvement de performances musicales. <br/><img src='/images/tube3D.png'>"
 collection: portfolio
 order: 7
 ---

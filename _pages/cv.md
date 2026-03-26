@@ -1,34 +1,14 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /en/cv/
+lang: en
 author_profile: true
 redirect_from:
+  - /cv/
   - /resume
 ---
 
-<html>
-<head>
-<style>
-.custom-select 
-    {
-    position: absolute;
-    right: 0;
-}
-</style>
-</head>
-<body>
-<div class="custom-select" style="width:200px;">
-  <select id="langselector" onchange="loadlang()">
-    <option value="en">English</option>
-    <option value="fr">French</option>
-  </select>
-</div>
-<p></p>
-</body>
-</html>
-
-<p style="font-size:80%;">[outdated, will be updated soon]</p>
 
 Education
 ======

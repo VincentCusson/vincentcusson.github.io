@@ -1,11 +1,9 @@
 ---
-permalink: /
+permalink: /en/
 title: "About"
 excerpt: "About me"
+lang: en
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I'm a 3rd year PhD student interested in co-creation with musical agents. I'm part of the *Groupe de recherche sur la création médiatique au-delà de l’humain* ([mXlab](https://mxlab.uqam.ca/le-mxlab/)) and have been collaborating with the ISSM team at Institut de recherche et coordination acoustique/musique ([IRCAM](https://www.ircam.fr/)) in Paris.

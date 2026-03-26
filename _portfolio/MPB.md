@@ -1,6 +1,8 @@
 ---
 title: "NXI - Mainte page blanche entre ses mains froissée"
+title_fr: "NXI - Mainte page blanche entre ses mains froissée"
 excerpt: "A new media installation based on research and experiments conducted on the transitory and ephemeral forms of natural and physical elements such as mist. <br/><img src='/images/mbp_small.jpeg'>"
+excerpt_fr: "Une installation de nouveaux médias fondée sur des recherches et expérimentations sur les formes transitoires et éphémères d'éléments naturels tels que la brume. <br/><img src='/images/mbp_small.jpeg'>"
 collection: portfolio
 order: 2
 ---

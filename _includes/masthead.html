@@ -1,22 +1,31 @@
 {% include base_path %}
 
+{% assign lang = page.lang | default: "en" %}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/{{ lang }}/">{{ site.title }}</a></li>
+          {% for link in site.data.navigation[lang] %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+        {% if lang == "en" %}
+          {% assign other_url = page.url | replace: '/en/', '/fr/' %}
+          <div style="position:absolute; right:1rem; top:50%; transform:translateY(-50%); font-size:0.85em; white-space:nowrap"><span>EN</span> | <a href="{{ base_path }}{{ other_url }}">FR</a></div>
+        {% else %}
+          {% assign other_url = page.url | replace: '/fr/', '/en/' %}
+          <div style="position:absolute; right:1rem; top:50%; transform:translateY(-50%); font-size:0.85em; white-space:nowrap"><a href="{{ base_path }}{{ other_url }}">EN</a> | <span>FR</span></div>
+        {% endif %}
       </nav>
     </div>
   </div>
